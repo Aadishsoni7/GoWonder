@@ -1,0 +1,13 @@
+import {businessNodes} from './business';
+import {createNodes} from './create';
+import {gamesNodes} from './games';
+import {playNodes} from './play';
+import {photographyNodes} from './photography';
+import {filmNodes} from './film';
+import {soundNodes} from './sound';
+import {natureNodes} from './nature';
+import {financeNodes} from './finance';
+import {sportsNodes} from './sports';
+import {technologyNodes} from './technology';
+import {peopleNodes} from './people';
+export const possibilities=[...businessNodes,...createNodes,...gamesNodes,...playNodes,...photographyNodes,...filmNodes,...soundNodes,...natureNodes,...financeNodes,...sportsNodes,...technologyNodes,...peopleNodes];

@@ -1,0 +1,14 @@
+{
+  "nodes": 233,
+  "worlds": 12,
+  "people": 60,
+  "activities": 56,
+  "resources": 44,
+  "relationships": 266,
+  "intersectionNodes": 14,
+  "surpriseNodes": 35,
+  "nodesWithPeople": 61,
+  "allPortraitsPresent": true,
+  "allInternalReferencesValid": true,
+  "acceptanceRoutesValid": true
+}

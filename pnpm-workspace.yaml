@@ -1,0 +1,5 @@
+nodeLinker: hoisted
+storeDir: .sites-runtime/store
+verifyDepsBeforeRun: false
+allowBuilds:
+  esbuild: true

@@ -64,4 +64,3 @@ Browser testing covers the desktop in-app browser and an explicit phone viewport
 The existing Sites identity is retained in `.openai/hosting.json`; reuse it when publishing. Do not create a duplicate Site. GitHub is connected to Aadishsoni7/OFFBEAT. The supplied repository is public; its existing visibility is preserved. Source and licensed assets are saved there for future iterations.
 
 Private Site publication was attempted on 18 October 2026. Automatic approval review rejected credential input to the official publishing helper because sandbox approval is disabled. No hosted deployment is claimed. The local app and source package are complete for review.
-
