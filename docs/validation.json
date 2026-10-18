@@ -1,14 +1,18 @@
 {
+  "learningLevels": 699,
+  "nodesWithThreeLevels": 233,
+  "licensedPortraits": 60,
+  "sourceProfilesAwaitingPortraits": 38,
   "nodes": 233,
   "worlds": 12,
-  "people": 60,
+  "people": 98,
   "activities": 56,
-  "resources": 44,
+  "resources": 82,
   "relationships": 266,
   "intersectionNodes": 14,
   "surpriseNodes": 35,
-  "nodesWithPeople": 61,
-  "allPortraitsPresent": true,
+  "nodesWithPeople": 130,
+  "allLicensedPortraitsPresent": true,
   "allInternalReferencesValid": true,
   "acceptanceRoutesValid": true
 }

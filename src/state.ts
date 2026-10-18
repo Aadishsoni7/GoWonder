@@ -1,5 +1,5 @@
 import {useEffect,useState} from 'react';
-export type Reflection={done?:boolean;note?:string;feeling?:string;parts?:string[]};
+export type Reflection={levels?:number[];done?:boolean;note?:string;feeling?:string;parts?:string[]};
 export type CuriosityState={saved:string[];surprised:string[];people:string[];trail:string[];notes:Record<string,Reflection>};
 function safeRead(key:string):any{try{return JSON.parse(localStorage.getItem(key)||'null')}catch{return null}}
 const strings=(x:unknown):string[]=>Array.isArray(x)?x.filter(v=>typeof v==='string'):[];

@@ -1,0 +1,1675 @@
+[
+  {
+    "url": "https://www.salesforce.com/blog/sales/what-is-a-sales-engineer/",
+    "kind": "article",
+    "usedBy": [
+      "sales-engineer-guide"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.salesforce.com/sales/team-productivity/what-is-sales-operations/",
+    "kind": "article",
+    "usedBy": [
+      "sales-ops-guide"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.salesforce.com/blog/sales-career-path-trailblazer-ecosystem/",
+    "kind": "article",
+    "usedBy": [
+      "sales-paths"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://blog.youtube/creator-and-artist-stories/youtube-creator-how-to-start/",
+    "kind": "article",
+    "usedBy": [
+      "youtube-start"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=aKydtOXW8mI",
+    "kind": "video",
+    "usedBy": [
+      "youtube-basics"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.youtube.com/creators/",
+    "kind": "guide",
+    "usedBy": [
+      "youtube-creators"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.screenskills.com/job-profiles/browse/games",
+    "kind": "guide",
+    "usedBy": [
+      "games-roles"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.screenskills.com/job-profiles/browse/games/technical-art/technical-artist/",
+    "kind": "article",
+    "usedBy": [
+      "technical-art-guide"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.screenskills.com/job-profiles/browse/film-and-tv-drama/",
+    "kind": "guide",
+    "usedBy": [
+      "film-roles"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.screenskills.com/job-profiles/browse/post-production/",
+    "kind": "guide",
+    "usedBy": [
+      "post-roles"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.screenskills.com/starting-your-career/lesson-plans-and-classroom-resources/career-maps/",
+    "kind": "guide",
+    "usedBy": [
+      "screen-map"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.worldcubeassociation.org/regulations/",
+    "kind": "guide",
+    "usedBy": [
+      "wca-rules"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://birdcount.in/counts/resources-and-tools/",
+    "kind": "guide",
+    "usedBy": [
+      "bird-tools"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://birdcount.in/counts/gbbc-faq/",
+    "kind": "guide",
+    "usedBy": [
+      "bird-faq"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://indianbiodiversity.org/citizen-scientist",
+    "kind": "guide",
+    "usedBy": [
+      "biodiversity"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://lichess.org/learn",
+    "kind": "guide",
+    "usedBy": [
+      "chess-learn"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.w3.org/WAI/tutorials/",
+    "kind": "guide",
+    "usedBy": [
+      "accessible-web"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development",
+    "kind": "guide",
+    "usedBy": [
+      "web-learning"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://learningmusic.ableton.com/",
+    "kind": "guide",
+    "usedBy": [
+      "music-play"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://p5js.org/tutorials/",
+    "kind": "guide",
+    "usedBy": [
+      "p5-tutorials"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://p5js.org/tutorials/setting-up-your-environment/",
+    "kind": "guide",
+    "usedBy": [
+      "p5-setup"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html",
+    "kind": "guide",
+    "usedBy": [
+      "godot-first"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://docs.godotengine.org/en/stable/getting_started/step_by_step/index.html",
+    "kind": "guide",
+    "usedBy": [
+      "godot-steps"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://nptel.ac.in/courses/130104115",
+    "kind": "guide",
+    "usedBy": [
+      "economics-course"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.justfoley.com/",
+    "kind": "portfolio",
+    "usedBy": [
+      "foley-studio",
+      "person-source-karan-arjun-singh",
+      "karan-arjun-singh"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.noddingheadsgames.com/team",
+    "kind": "portfolio",
+    "usedBy": [
+      "raji-team",
+      "person-source-anirudh-singh-art",
+      "person-source-shreyash-pai",
+      "person-source-avichal-singh",
+      "shruti-ghosh",
+      "anirudh-singh-art",
+      "shreyash-pai",
+      "avichal-singh"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.rajithegame.com/post/unwinnable-s-interview-with-raji-team",
+    "kind": "article",
+    "usedBy": [
+      "raji-process"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.aic-iac.org/member/adil-writer/",
+    "kind": "portfolio",
+    "usedBy": [
+      "adil-work"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://mitticool.com/about-us/",
+    "kind": "portfolio",
+    "usedBy": [
+      "mitticool"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://afforestt.com/about/",
+    "kind": "portfolio",
+    "usedBy": [
+      "afforestt",
+      "person-source-shubhendu-sharma",
+      "shubhendu-sharma"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://blog.ted.com/shubhendusharma/",
+    "kind": "article",
+    "usedBy": [
+      "forest-story"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://chessbase.in/news/Sagar_Shah_on_Perpetual_Chess_Podcast",
+    "kind": "article",
+    "usedBy": [
+      "chess-sagar"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.prokabaddi.com/videos/ashu-maliks-5-point-super-raid-moment-of-the-day-december-09-pkl-season-11",
+    "kind": "video",
+    "usedBy": [
+      "kabaddi-raid"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.worldcubeassociation.org/persons/2011NARA02",
+    "kind": "portfolio",
+    "usedBy": [
+      "cube-record"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.sujanyarajan.com/",
+    "kind": "portfolio",
+    "usedBy": [
+      "ux-practice"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.abhishekhanna.com/about",
+    "kind": "portfolio",
+    "usedBy": [
+      "food-photo-work",
+      "person-source-abhishek-khanna-photo",
+      "abhishek-khanna-photo"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://praernakartha.com/about-us/",
+    "kind": "portfolio",
+    "usedBy": [
+      "food-stylist-work"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.monk-e.in/about",
+    "kind": "portfolio",
+    "usedBy": [
+      "creator-business"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://vansh.carrd.co/",
+    "kind": "portfolio",
+    "usedBy": [
+      "thumbnail-work"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.sportsmechanics.in/",
+    "kind": "portfolio",
+    "usedBy": [
+      "sports-practice"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.maedinindia.in/",
+    "kind": "portfolio",
+    "usedBy": [
+      "podcast-work",
+      "mae-mariyam-thomas"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.poonamaptevoiceover.com/",
+    "kind": "portfolio",
+    "usedBy": [
+      "voice-work"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://ankurtewari.com/work/",
+    "kind": "portfolio",
+    "usedBy": [
+      "music-supervisor",
+      "person-source-ankur-tewari",
+      "ankur-tewari"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.ey.com/en_us/people/arpinder-singh",
+    "kind": "article",
+    "usedBy": [
+      "forensic-practice"
+    ],
+    "verification": "saved_research_not_all_reopened"
+  },
+  {
+    "url": "https://www.ey.com/en_in/people/arpinder-singh",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-arpinder-singh",
+      "arpinder-singh"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.linkedin.com/posts/virajsheth_at-monk-entertainment-we-are-looking-to-activity-7206265587772071937-V9El",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-viraj-sheth",
+      "viraj-sheth"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://in.linkedin.com/in/maemariyam",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-mae-mariyam-thomas",
+      "mae-mariyam-thomas"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.unrealengine.com/spotlights/meet-indie-game-developer-shruti-ghosh-co-creator-of-raji-an-ancient-epic",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-shruti-ghosh",
+      "shruti-ghosh"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.aic-iac.org/zh/member/adil-writer/",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-adil-writer",
+      "adil-writer"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.sportsmechanics.us/",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-s-ramakrishnan",
+      "s-ramakrishnan"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.aanchalmalhotra.com/about/",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-aanchal-malhotra",
+      "aanchal-malhotra"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://culture.gov.in/lalit-kala-akademi/anirudh-kanisetti",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-anirudh-kanisetti",
+      "anirudh-kanisetti"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.rathikaramasamy.com/",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-rathika-ramasamy",
+      "rathika-ramasamy"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.zoho.com/humans-of-zoho/sureshbabu.html",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-suresh-babu-pinachinnayagari",
+      "suresh-babu-pinachinnayagari"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.zoho.com/humans-of-zoho/ricky.html",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-rikesh-thakrar",
+      "rikesh-thakrar"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.idc.iitb.ac.in/~anirudha/aboutmeformal.htm",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-anirudha-joshi",
+      "anirudha-joshi"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.yomgupta.com/",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-rishabh-gupta-design",
+      "rishabh-gupta-design"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://khatibdesigns.in/",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-sahil-khatib",
+      "sahil-khatib"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.ncf-india.org/author/646439/rohit-naniwadekar",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-rohit-naniwadekar",
+      "rohit-naniwadekar"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.ncf-india.org/western-ghats/restoring-damaged-ecosystems",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-divya-mudappa",
+      "divya-mudappa"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.iiap.res.in/people/director/",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-annapurni-subramaniam",
+      "annapurni-subramaniam"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://srinivasu.org/services/",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-srinivasu-chakravarthula",
+      "srinivasu-chakravarthula"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.davidshaver.net/bio.html",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-david-shaver",
+      "david-shaver"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://teachingdesign.blogspot.com/p/about.html",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-ian-schreiber",
+      "ian-schreiber"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://halisavakis.com/",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-harry-alisavakis",
+      "harry-alisavakis"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.audiogang.org/interview-with-winifred-phillips/",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-winifred-phillips",
+      "winifred-phillips"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.zoho.com/humans-of-zoho/vidya-vasudevan.html",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-vidya-vasudevan",
+      "vidya-vasudevan"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.asiapacificscreenawards.com/apsa-academy-members/12460",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-bina-paul",
+      "bina-paul"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://iwcc.in/about/",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-fowzia-fathima",
+      "fowzia-fathima"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.siddharthadas.com/",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-siddhartha-das",
+      "siddhartha-das"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.worldcubeassociation.org/persons/2013ANIR01",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-hari-anirudh",
+      "hari-anirudh"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.asimovrobotics.com/about-us",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-jayakrishnan-t",
+      "jayakrishnan-t"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.chicagobooth.edu/faculty/directory/m/sendhil-mullainathan",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-sendhil-mullainathan",
+      "sendhil-mullainathan"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://actuaries.org/diversity-and-inclusion/young-actuaries-world-cup/",
+    "kind": "portfolio",
+    "usedBy": [
+      "person-source-surtina-chakraborty",
+      "person-source-mokshit-kothari",
+      "surtina-chakraborty",
+      "mokshit-kothari"
+    ],
+    "verification": "source_content_checked_2026_10_18"
+  },
+  {
+    "url": "https://www.aishwaryasridhar.com/home",
+    "kind": "person_source",
+    "usedBy": [
+      "aishwarya-sridhar"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://sanctuarynaturefoundation.org/award/romulus-whitaker",
+    "kind": "person_source",
+    "usedBy": [
+      "romulus-whitaker"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.purnimadevibarman.com/",
+    "kind": "person_source",
+    "usedBy": [
+      "purnima-barman"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://connect.iisc.ac.in/2020/03/a-martian-odyssey/",
+    "kind": "person_source",
+    "usedBy": [
+      "ritu-karidhal"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.gymnastics.sport/site/athletes/bio_detail.php?id=26654",
+    "kind": "person_source",
+    "usedBy": [
+      "dipa-karmakar"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.tatasteel.com/media/newsroom/press-releases/india/2013/spirited-arunima-conquers-mt-everest/",
+    "kind": "person_source",
+    "usedBy": [
+      "arunima-sinha"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://online.gndu.ac.in/pdf/Pixels_Apr2018.pdf",
+    "kind": "person_source",
+    "usedBy": [
+      "vikas-khanna"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://magazines.odisha.gov.in/Orissareview/2014/Dec/engpdf/december_or_2014.pdf",
+    "kind": "person_source",
+    "usedBy": [
+      "sudarshan-sahoo"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.thehitavada.com/Encyc/2023/6/2/Kasaravalli-on-the-art-of-watching-film-making.html",
+    "kind": "person_source",
+    "usedBy": [
+      "girish-kasaravalli"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://diff.wikimedia.org/2013/10/08/wildlife-photographer-naseer-wikimedia-commons/",
+    "kind": "person_source",
+    "usedBy": [
+      "na-naseer"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://rumadevi.com/pages/about-us",
+    "kind": "person_source",
+    "usedBy": [
+      "ruma-devi"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://newindiasamachar.pib.gov.in/WriteReadData/Magazine/2022/mar/M202203011.pdf",
+    "kind": "person_source",
+    "usedBy": [
+      "arifa-jan"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://sarmaya.in/spotlight/first-of-her-tribe/",
+    "kind": "person_source",
+    "usedBy": [
+      "bhuri-bai"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://tarabooks.com/product-tag/dulari-devi/",
+    "kind": "person_source",
+    "usedBy": [
+      "dulari-devi"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://alphauniverse.com/stories/the-making-of-the-elephant-whisperers--and-the-power-of-story-to-change-minds/",
+    "kind": "person_source",
+    "usedBy": [
+      "kartiki-gonsalves"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=y6VPUDLXmZM",
+    "kind": "video",
+    "usedBy": [
+      "kartiki-gonsalves"
+    ],
+    "verification": "saved_research_playback_recheck_needed"
+  },
+  {
+    "url": "https://www.rimadas.com/",
+    "kind": "person_source",
+    "usedBy": [
+      "rima-das"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.bhavanidevi.com/biography",
+    "kind": "person_source",
+    "usedBy": [
+      "bhavani-devi"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.worldarchery.sport/news/201218/jyothi-surekha-vennam-gives-india-world-champion-potential",
+    "kind": "person_source",
+    "usedBy": [
+      "jyothi-surekha"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.paralympic.org/avani-lekhara",
+    "kind": "person_source",
+    "usedBy": [
+      "avani-lekhara"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.iisc.ac.in/events/condolence-note-on-the-passing-of-prof-rohini-godbole/",
+    "kind": "person_source",
+    "usedBy": [
+      "rohini-godbole"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.rhs.org.uk/education-learning/libraries-at-rhs/articles/janaki-ammal",
+    "kind": "person_source",
+    "usedBy": [
+      "janaki-ammal"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://sanctuarynaturefoundation.org/award/jadav-payeng",
+    "kind": "person_source",
+    "usedBy": [
+      "jadav-payeng"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=w8OtZUcjKFU",
+    "kind": "video",
+    "usedBy": [
+      "jadav-payeng"
+    ],
+    "verification": "saved_research_playback_recheck_needed"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/city/bengaluru/saalumarada-thimmakka-in-bbcs-100-women-list/articleshow/55573030.cms",
+    "kind": "person_source",
+    "usedBy": [
+      "saalumarada-thimmakka"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.iitk.ac.in/doaa/convocation/data/Profile_Dr._Tessi_Thomas.pdf",
+    "kind": "person_source",
+    "usedBy": [
+      "tessy-thomas"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.paralympic.org/feature/para-badminton-world-champion-manasi-joshi-living-life-without-limits",
+    "kind": "person_source",
+    "usedBy": [
+      "manasi-joshi"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.paralympic.org/news/india-announces-squad-new-delhi-world-para-athletics-championships",
+    "kind": "person_source",
+    "usedBy": [
+      "ekta-bhyan"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.paralympic.org/athletes/deepa-malik",
+    "kind": "person_source",
+    "usedBy": [
+      "deepa-malik"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.squashinfo.com/player/402-joshana-chinappa",
+    "kind": "person_source",
+    "usedBy": [
+      "joshna-chinappa"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://dayanitasingh.net/wp-content/uploads/2016/05/ArtAsiaPacific_JyotiDhar.pdf",
+    "kind": "person_source",
+    "usedBy": [
+      "dayanita-singh"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.icaldrc.org/267",
+    "kind": "person_source",
+    "usedBy": [
+      "shovana-narayan"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Prateek_Kuhad",
+    "kind": "person_source",
+    "usedBy": [
+      "prateek-kuhad"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.prateekkuhad.com/",
+    "kind": "person_source",
+    "usedBy": [
+      "prateek-kuhad"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Prateek_Kuhad_(cropped).jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "prateek-kuhad"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.insomniac.com/music/artists/nucleya/",
+    "kind": "person_source",
+    "usedBy": [
+      "nucleya"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Nucleya_Zoom_Holi_2020.png",
+    "kind": "person_source",
+    "usedBy": [
+      "nucleya"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://mixmag.asia/feature/electric-india-ritviz-transcends",
+    "kind": "person_source",
+    "usedBy": [
+      "ritviz"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.ritviz.in/more",
+    "kind": "person_source",
+    "usedBy": [
+      "ritviz"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Ritviz.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "ritviz"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.rajakumari.com/about",
+    "kind": "person_source",
+    "usedBy": [
+      "raja-kumari"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.rajakumari.com/",
+    "kind": "person_source",
+    "usedBy": [
+      "raja-kumari"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Raja_Kumari_2019_by_Glenn_Francis.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "raja-kumari"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://ca.rollingstone.com/music/big-beats-death-defying-stunts-how-indian-rapper-hanumankind-stunned-audiences-with-his-viral-hit-big-dawgs/",
+    "kind": "person_source",
+    "usedBy": [
+      "hanumankind"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:2025_cover_photo_Hanumankind.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "hanumankind"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.allmusic.com/artist/divine-mn0002430225",
+    "kind": "person_source",
+    "usedBy": [
+      "divine"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.redbull.com/us-en/divine-india-rap-movie",
+    "kind": "person_source",
+    "usedBy": [
+      "divine"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Divine_(cropped).jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "divine"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.newindianexpress.com/bengaluru/2017/Aug/01/i-like-it-when-bollywood-projects-pay-me-good-money-says-brodha-v-1636830.html",
+    "kind": "person_source",
+    "usedBy": [
+      "brodha-v"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Brodha_V.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "brodha-v"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.anoushkashankar.com/biography",
+    "kind": "person_source",
+    "usedBy": [
+      "anoushka-shankar"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.anoushkashankar.com/",
+    "kind": "person_source",
+    "usedBy": [
+      "anoushka-shankar"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Anoushka_Shankar_2016.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "anoushka-shankar"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://planetbollywood.com/wp/interviews/music-producers-are-finally-getting-their-due-abhijit-vaghani/",
+    "kind": "person_source",
+    "usedBy": [
+      "abhijit-vaghani"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://abbeyroadinstitute.in/mumbai/staff/abhijit-vaghani/",
+    "kind": "person_source",
+    "usedBy": [
+      "abhijit-vaghani"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:AVDSC_0015.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "abhijit-vaghani"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.fide.com/indian-triumph-vidit-and-vaishali-win-fide-grand-swiss/",
+    "kind": "person_source",
+    "usedBy": [
+      "vidit-gujrathi",
+      "r-vaishali"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://viditchess.com/",
+    "kind": "person_source",
+    "usedBy": [
+      "vidit-gujrathi"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Vidit_Gujrathi_in_2024_(cropped).jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "vidit-gujrathi"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.redbull.com/ca-en/athlete/tania-sachdev",
+    "kind": "person_source",
+    "usedBy": [
+      "tania-sachdev"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.chess.com/players/tania-sachdev",
+    "kind": "person_source",
+    "usedBy": [
+      "tania-sachdev"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Tania_Sachdev_(29793031373)_(cropped).jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "tania-sachdev"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.fide.com/volodar-murzin-and-humpy-koneru-new-fide-world-rapid-champions/",
+    "kind": "person_source",
+    "usedBy": [
+      "koneru-humpy"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://womenscandidates.fide.com/profile/humpy-koneru",
+    "kind": "person_source",
+    "usedBy": [
+      "koneru-humpy"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Koneru_Humpy.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "koneru-humpy"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Vaishali_Rameshbabu_Tata_2023_-_32.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "r-vaishali"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=wtjtor7zWQU",
+    "kind": "video",
+    "usedBy": [
+      "r-vaishali"
+    ],
+    "verification": "saved_research_playback_recheck_needed"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Soumya_Swaminathan_(chess_player)",
+    "kind": "person_source",
+    "usedBy": [
+      "soumya-swaminathan"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:SSwaminathan10.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "soumya-swaminathan"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://chessbase.in/news/Soumya_Swaminathan_turns_29",
+    "kind": "person_source",
+    "usedBy": [
+      "soumya-swaminathan"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://chessbase.in/news/interview-with-bhakti-kulkarni-2017",
+    "kind": "person_source",
+    "usedBy": [
+      "bhakti-kulkarni"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Bhakti_Kulkarni_in_2021.png",
+    "kind": "person_source",
+    "usedBy": [
+      "bhakti-kulkarni"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.nikhilmalankar.com/",
+    "kind": "person_source",
+    "usedBy": [
+      "nikhil-malankar"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Nikhil_malankar.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "nikhil-malankar"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MMe5Kgg4nNc",
+    "kind": "video",
+    "usedBy": [
+      "nikhil-malankar"
+    ],
+    "verification": "saved_research_playback_recheck_needed"
+  },
+  {
+    "url": "https://nadh.in/",
+    "kind": "person_source",
+    "usedBy": [
+      "kailash-nadh"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://zerodha.com/about/",
+    "kind": "person_source",
+    "usedBy": [
+      "kailash-nadh"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Kailash_Nadh_2023_(cropped).jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "kailash-nadh"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://yourstory.com/2017/03/techie-tuesdays-arun-ganesh",
+    "kind": "person_source",
+    "usedBy": [
+      "arun-ganesh"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Arun_Ganesh_at_State_of_the_Map_Kerala_2024_DSC_9186.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "arun-ganesh"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://awards.oeglobal.org/awards/2025/individual/srishti-sethi/",
+    "kind": "person_source",
+    "usedBy": [
+      "srishti-sethi"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Srishti_Sethi_Feb_2023.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "srishti-sethi"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://zerodha.com/z-connect/general/our-story-till-now",
+    "kind": "person_source",
+    "usedBy": [
+      "nithin-kamath"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://nithinkamath.me/",
+    "kind": "person_source",
+    "usedBy": [
+      "nithin-kamath"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Nithin_Kamath_(Zerodha_Broking_Limited).jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "nithin-kamath"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=PnzhXg2ZrTc",
+    "kind": "video",
+    "usedBy": [
+      "nithin-kamath"
+    ],
+    "verification": "saved_research_playback_recheck_needed"
+  },
+  {
+    "url": "https://www.fortuneindia.com/people/kunal-shah",
+    "kind": "person_source",
+    "usedBy": [
+      "kunal-shah"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Kunal_Shah_in_FreeCharge_T-Shirt.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "kunal-shah"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.boat-lifestyle.com/pages/board-of-directors",
+    "kind": "person_source",
+    "usedBy": [
+      "aman-gupta"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Aman_Gupta_of_boAt_Lifestyle.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "aman-gupta"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.varunmayya.org/",
+    "kind": "person_source",
+    "usedBy": [
+      "varun-mayya"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://yourstory.com/people/varun-mayya",
+    "kind": "person_source",
+    "usedBy": [
+      "varun-mayya"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Varun_Mayya.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "varun-mayya"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.maliniagarwal.com/founder",
+    "kind": "person_source",
+    "usedBy": [
+      "malini-agarwal"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.maliniagarwal.com/",
+    "kind": "person_source",
+    "usedBy": [
+      "malini-agarwal"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Photo_of_Malini_Agarwal.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "malini-agarwal"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.laughfactory.com/comedians/bio/AditiMittal",
+    "kind": "person_source",
+    "usedBy": [
+      "aditi-mittal"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.comedy.co.uk/people/aditi_mittal/",
+    "kind": "person_source",
+    "usedBy": [
+      "aditi-mittal"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Aditi_Mittal_performing_at_Social_Media_Week_Bangalore_2015.webm",
+    "kind": "person_source",
+    "usedBy": [
+      "aditi-mittal"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.newindianexpress.com/videos/express-conversations/2026/Sep/26/actor-comedian-bhuvan-bam-on-fear-failure-finding-his-break",
+    "kind": "person_source",
+    "usedBy": [
+      "bhuvan-bam"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Bhuvan_Bam_at_Myntra%27s_Creator_Fest_2023_event_(cropped).jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "bhuvan-bam"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.schoneberg.de/fileadmin/user_upload/artists/03-COMEDY/K-O/Kenny_Sebastian/Kenny_Sebastian_-_Bio-2.pdf",
+    "kind": "person_source",
+    "usedBy": [
+      "kenny-sebastian"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.knowkenny.com/",
+    "kind": "person_source",
+    "usedBy": [
+      "kenny-sebastian"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Kenny_2016_(cropped).jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "kenny-sebastian"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Kanan_Gill",
+    "kind": "person_source",
+    "usedBy": [
+      "kanan-gill"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.kanangill.com/",
+    "kind": "person_source",
+    "usedBy": [
+      "kanan-gill"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Kanan_Gill_trailer_launch_Noor_(cropped).jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "kanan-gill"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://archive.festmag.com/edinburgh/comedy/under-pressure",
+    "kind": "person_source",
+    "usedBy": [
+      "kanan-gill"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Biswa_Kalyan_Rath",
+    "kind": "person_source",
+    "usedBy": [
+      "biswa-kalyan-rath"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Biswa_Kalyan_Rath_(cropped).jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "biswa-kalyan-rath"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://www.iitkgpalumnifoundation.in/newsroom/news/Unique-Talents-of-KGPians-Biswa-Kalyan-Rath-from-KGP-to-TV.dz",
+    "kind": "person_source",
+    "usedBy": [
+      "biswa-kalyan-rath"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://meta.wikimedia.org/wiki/User:Runab_WMF",
+    "kind": "person_source",
+    "usedBy": [
+      "runa-bhattacharjee"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://diff.wikimedia.org/2013/02/27/language-engineering-team-participates-in-gnunify-2013/",
+    "kind": "person_source",
+    "usedBy": [
+      "runa-bhattacharjee"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Bhattacharjee,_Runa_Jan_2019.jpg",
+    "kind": "person_source",
+    "usedBy": [
+      "runa-bhattacharjee"
+    ],
+    "verification": "Previously researched; not all links revisited in this pass"
+  },
+  {
+    "url": "https://sportsmechanics.in/blog/where-change-gets-called-by-tradition-the-case-study-of-sportsmechanics/",
+    "kind": "person_source",
+    "usedBy": [
+      "s-ramakrishnan"
+    ],
+    "verification": "Source content identified and checked on 18 October 2026; not an independent verification of all self reported claims"
+  },
+  {
+    "url": "https://www.anirudhkanisetti.com/",
+    "kind": "person_source",
+    "usedBy": [
+      "anirudh-kanisetti"
+    ],
+    "verification": "Source content identified and checked on 18 October 2026; not an independent verification of all self reported claims"
+  },
+  {
+    "url": "https://www.anirudhajoshi.in/teaching/my-teaching",
+    "kind": "person_source",
+    "usedBy": [
+      "anirudha-joshi"
+    ],
+    "verification": "Source content identified and checked on 18 October 2026; not an independent verification of all self reported claims"
+  },
+  {
+    "url": "https://era-india.org/community/divya-mudappa/",
+    "kind": "person_source",
+    "usedBy": [
+      "divya-mudappa"
+    ],
+    "verification": "Source content identified and checked on 18 October 2026; not an independent verification of all self reported claims"
+  },
+  {
+    "url": "https://srinivasu.org/",
+    "kind": "person_source",
+    "usedBy": [
+      "srinivasu-chakravarthula"
+    ],
+    "verification": "Source content identified and checked on 18 October 2026; not an independent verification of all self reported claims"
+  },
+  {
+    "url": "https://davidshaver.net/",
+    "kind": "person_source",
+    "usedBy": [
+      "david-shaver"
+    ],
+    "verification": "Source content identified and checked on 18 October 2026; not an independent verification of all self reported claims"
+  },
+  {
+    "url": "https://www.routledge.com/Game-Balance/Schreiber-Romero/p/book/9781315156422",
+    "kind": "person_source",
+    "usedBy": [
+      "ian-schreiber"
+    ],
+    "verification": "Source content identified and checked on 18 October 2026; not an independent verification of all self reported claims"
+  },
+  {
+    "url": "https://www.patreon.com/halisavakis/about?l=en-GB",
+    "kind": "person_source",
+    "usedBy": [
+      "harry-alisavakis"
+    ],
+    "verification": "Source content identified and checked on 18 October 2026; not an independent verification of all self reported claims"
+  },
+  {
+    "url": "https://www.theawfc.org/user/winifred-phillips/",
+    "kind": "person_source",
+    "usedBy": [
+      "winifred-phillips"
+    ],
+    "verification": "Source content identified and checked on 18 October 2026; not an independent verification of all self reported claims"
+  },
+  {
+    "url": "https://dff.nic.in/images/Documents/66_51stNfacatalogue.pdf",
+    "kind": "person_source",
+    "usedBy": [
+      "bina-paul"
+    ],
+    "verification": "Source content identified and checked on 18 October 2026; not an independent verification of all self reported claims"
+  },
+  {
+    "url": "https://database.filmbazaarindia.com/media/2561/knowledge_series_2019.pdf",
+    "kind": "person_source",
+    "usedBy": [
+      "fowzia-fathima"
+    ],
+    "verification": "Source content identified and checked on 18 October 2026; not an independent verification of all self reported claims"
+  },
+  {
+    "url": "https://www.siddharthadas.com/museum-interpretation",
+    "kind": "person_source",
+    "usedBy": [
+      "siddhartha-das"
+    ],
+    "verification": "Source content identified and checked on 18 October 2026; not an independent verification of all self reported claims"
+  },
+  {
+    "url": "https://sendhil.org/research/",
+    "kind": "person_source",
+    "usedBy": [
+      "sendhil-mullainathan"
+    ],
+    "verification": "Source content identified and checked on 18 October 2026; not an independent verification of all self reported claims"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZsJdhhaoj7I",
+    "kind": "video",
+    "usedBy": [
+      "surtina-chakraborty"
+    ],
+    "verification": "organiser_link_identified_playback_pending"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=57cAS3pxE8U",
+    "kind": "video",
+    "usedBy": [
+      "mokshit-kothari"
+    ],
+    "verification": "organiser_link_identified_playback_pending"
+  }
+]

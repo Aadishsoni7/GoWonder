@@ -1,0 +1,22 @@
+{
+  "nodes": 233,
+  "levels": 699,
+  "existingPeople": 60,
+  "newPeople": 38,
+  "peopleTotal": 98,
+  "licensedPortraits": 60,
+  "newPortraitPermissionsNeeded": 38,
+  "nodesWithDocumentedFieldPerson": 130,
+  "nodesWithBroaderStoryOnly": 103,
+  "nodesWithAssignedResources": 120,
+  "nodesWithRelatedResourcesOnly": 69,
+  "nodesNeedingDedicatedResource": 113,
+  "resourceRecords": 82,
+  "uniqueSourceLinks": 203,
+  "videoLinks": 7,
+  "allNodeIdsMatched": true,
+  "allLevelIdsUnique": true,
+  "allInternalReferencesValid": true,
+  "professionalReviewComplete": false,
+  "allExternalLinksPlaybackTested": false
+}

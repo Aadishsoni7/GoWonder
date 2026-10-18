@@ -1,8 +1,8 @@
 # Offbeat
 
-A discovery app for curious young people in India. The map is the main experience: follow possibilities, open field notes, grow a person or video card, try a small activity and keep a reflection.
+A discovery app for curious young people in India. The map is the main experience: follow possibilities, try a small task, meet people through their work and keep a reflection.
 
-## Run and build
+## Run and check
 
 Use Node 22.12 or newer and pnpm 11.25.0.
 
@@ -13,54 +13,36 @@ pnpm check:data
 pnpm build
 ```
 
-This is a static React, TypeScript and Vite application. Content and saved progress stay local. No backend or sign in is needed. Production files build into `dist/`. Optional Google Fonts have system font fallbacks.
+This is a static React, TypeScript and Vite app. There is no account or backend sync. Notes, saved discoveries and tried levels stay in this browser. Hash routes support fields, person stories, the directory, notebook and optional curiosity check, including the standalone export.
 
-## What changed in this revision
+## Revision of 18 October 2026
 
-The fixed columns and right drawer have been replaced with React Flow. Possibility cards, expanded notes, people, mystery connections and video resources are actual graph objects. The canvas pans and zooms, draws deterministic Rough.js edges, moves its camera as you explore and separates nearby cards when an object expands. Only the current neighbourhood and recent path are rendered.
+All 233 existing map entries now have three distinct authored tasks: 699 level drafts in total. The levels move from a small starter through repeated practice to a deeper project or supervised learning plan. Materials, later tools, reflection and optional completion are included. The old empty activity message and repeated deeper description fallback have been replaced. The 56 original activity records remain for historical content and reflection choices; the three level pathways drive the current interface.
 
-Twelve visual worlds use distinct colours, gradients, silhouettes and typography. Phone layouts use a focused sequence below the selected node. Keyboard buttons, visible focus, accessible names and reduced motion are supported.
+The People directory exposes all 98 records with name and field search, world and story context filters, a portrait filter and a result count. The homepage links to the full collection. Sixty existing profiles retain licensed local portraits. Thirty-eight newly sourced profiles use deliberate source story cards until portrait reuse rights are obtained. No substitute faces are used. Documented field connections cover 130 map entries. Another 103 entries use explicitly labelled broader stories; they are not presented as exact specialists.
 
-## Content structure
+The optional six question curiosity check suggests starting fields based on the visitor's choices and includes a deliberately different option. It permits skipping and changing answers. It is not a validated psychological, personality or aptitude assessment. Notebook progress is separate for each level and survives reload; export and explicit reset controls are available.
 
-- `src/data/worlds/`: 233 possibilities across 12 world modules.
-- `src/data/activities.ts`: 56 small experiments with specific reflection prompts.
-- `src/data/resources.ts`: 44 sourced reading, portfolio and video resources.
-- `src/data/relationships.ts`: 266 semantic connections, including 14 intersection destinations.
-- `src/data/people-a.ts` and `people-b.ts`: 60 researched people with actual reusable photographs.
-- `public/portraits/`: all 60 local image files.
-- `public/credits.html`: source, author and licence attribution for the portraits.
-- `docs/`: research ledgers and the data validation report.
+## Content and research
 
-People are matched through arrays of exact connected node IDs. One possibility can show several people. A missing specialist is clearly stated rather than replaced with someone from an adjacent field. At this stage 61 of the 233 possibilities have matched people, and 98 have direct resource links. More exact specialist profiles remain an editorial task.
+* `src/data/worlds/`: 233 entries across 12 worlds with stable IDs.
+* `src/data/learning.ts`: all 699 authored tasks, materials, reflections, example workflows and related connections.
+* `src/data/people-a.ts`, `people-b.ts`, `people-extra.ts`: 98 sourced profiles.
+* `src/data/resources.ts`, `resources-extra.ts`: 82 resource records.
+* `src/data/relationships.ts`: 266 graph relationships.
+* `public/portraits/` and `public/credits.html`: 60 licensed portraits with attribution.
+* `docs/handoff/`: the readable implementation brief, complete field handbook, People inventory, structured import pack, source register and remaining research briefs.
 
-The people collection includes practitioners, people who changed direction, accomplished figures and two clearly labelled diaspora examples. It does not claim everyone is unknown. Some historical portraits and event photographs are less polished than a commissioned portrait. Aditi Mittal uses a real but distant licensed performance still. No generated substitute faces or invented personal routines are included.
+The source register contains 203 unique URLs. Some are from the saved research and have not been reopened in this pass. New source content supports the stated role or account, but self reported portfolios are not independent verification of marketing claims. Two additional video IDs were found on the International Actuarial Association organiser page; playback and embed availability are not claimed as verified. Keep an external link alternative.
 
-Five person profiles have verified YouTube videos. Other people link to work and written sources. Videos load only after a deliberate click; opening a video card initially shows a thumbnail. An external YouTube link is available when an embed cannot play.
+Personal beginnings, habits and working days are only included when documented. General learning workflows are labelled separately from biographies. Many profiles still need richer first person journey material. There are also 113 entries without an assigned dedicated resource in the handoff; related sources are labelled, and the activity remains usable. This revision does not claim exact specialist and dedicated tutorial coverage everywhere.
 
-## Interactions
+## Verification and limits
 
-- Progressive branches, alternate branch batches and mystery connections.
-- Fuzzy search and aliases, including B2B, forensic accounts and youtube thumbnail.
-- Expanded field notes with people, Try It and deeper information tabs.
-- Connected people and video cards on the same canvas.
-- Small demonstrations for sales questions, a fictional ledger, thumbnail choices, UX labels, sports tallying, a chess knight and a paper game rule.
-- Specific reflections such as observing animals, taking photographs and telling a story, linked to further exploration.
-- Saved curiosities, completed activities, surprises, people and trail in browser storage.
-- Possible intersections appear in the notebook when two saved interests share an intersection.
+Data checks validate all node IDs, graph references, all three levels for every entry, unique level IDs, person and resource references, and existing licensed portrait files. TypeScript and the production build pass. The build currently contains a large content bundle; the standalone export deliberately embeds it and the 60 portraits.
 
-Professional qualifications and regulated activities are kept in deeper notes. Activities are starter experiences, not professional training or eligibility advice. The app does not claim salaries or guaranteed outcomes.
-
-## Verification
-
-`pnpm check:data` validates unique IDs, every internal relation, activity/resource references, person matches, portrait files, reachability and the five required structural routes. It also regenerates the photo credits page.
-
-Browser checks cover the full sales route to Sales Engineering, creator discovery to thumbnails on a 390px phone viewport, game making to narrative design, connected wildlife person cards, a developer story and deliberate video embedding. The ledger exercise, specific reflection and persistence after reload were checked. The graph kept a small neighbourhood in the DOM and did not create blocking dialogs. TypeScript and production build pass. Portrait binaries were decoded and the research contact sheets reviewed.
-
-Browser testing covers the desktop in-app browser and an explicit phone viewport, not every physical device. There is no backend sync; clearing browser storage removes local progress. Current camera/page state restarts on reload, while saved discoveries and trail persist.
+Fresh browser checks cover People search and a connected story, distinct wildlife tasks at all three levels, Level 2 completion after reload and in the notebook, and a 390px phone route for bird photography with its activity and person connection. The optional curiosity check was exercised through skipped questions to explained results. No browser console errors were observed in that check. A browser automation batch stalled once; individual step checks then completed. Not every one of the 699 tasks, external URL or video has been manually tested. Starter drafts are not professional training. Physical participation, workshops and specialised work retain appropriate observation or supervised alternatives.
 
 ## Publishing
 
-The existing Sites identity is retained in `.openai/hosting.json`; reuse it when publishing. Do not create a duplicate Site. GitHub is connected to Aadishsoni7/OFFBEAT. The supplied repository is public; its existing visibility is preserved. Source and licensed assets are saved there for future iterations.
-
-Private Site publication was attempted on 18 October 2026. Automatic approval review rejected credential input to the official publishing helper because sandbox approval is disabled. No hosted deployment is claimed. The local app and source package are complete for review.
+GitHub repository: https://github.com/Aadishsoni7/OFFBEAT . Its existing public visibility is preserved. Keep the existing Sites identity in `.openai/hosting.json`; do not create a duplicate Site. Private Sites publication remains blocked by automatic approval review at the credential input step because sandbox approval is disabled. A GitHub source upload is not a hosted website deployment. The deliverables include a standalone HTML app and source package.

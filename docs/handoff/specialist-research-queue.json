@@ -1,0 +1,1959 @@
+[
+  {
+    "nodeId": "business",
+    "title": "Business",
+    "worldId": "business",
+    "visibleInterim": "Use a world gallery, not a false exact specialist claim",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Business. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Business India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "saas-sales",
+    "title": "SaaS sales",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates SaaS sales. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "SaaS sales India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "sdr",
+    "title": "Sales development",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Sales development. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Sales development India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "account-executive",
+    "title": "Account executive",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Account executive. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Account executive India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "customer-success",
+    "title": "Customer success",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Customer success. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Customer success India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "revops",
+    "title": "Revenue operations",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Revenue operations. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Revenue operations India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "enterprise-sales",
+    "title": "Enterprise sales",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Enterprise sales. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Enterprise sales India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "smb-sales",
+    "title": "Small business sales",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Small business sales. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Small business sales India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "industrial-sales",
+    "title": "Industrial sales",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Industrial sales. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Industrial sales India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "advertising-sales",
+    "title": "Advertising sales",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Advertising sales. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Advertising sales India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "b2c-sales",
+    "title": "B2C sales",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates B2C sales. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "B2C sales India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "retail-sales",
+    "title": "Retail sales",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Retail sales. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Retail sales India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "direct-sales",
+    "title": "Direct sales",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Direct sales. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Direct sales India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "inside-sales",
+    "title": "Inside sales",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Inside sales. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Inside sales India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "field-sales",
+    "title": "Field sales",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Field sales. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Field sales India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "sales-ops",
+    "title": "Sales operations",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Sales operations. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Sales operations India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "sales-enablement",
+    "title": "Sales enablement",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Sales enablement. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Sales enablement India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "sponsorship-sales",
+    "title": "Sponsorship sales",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Sponsorship sales. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Sponsorship sales India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "events",
+    "title": "Community events",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Community events. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Community events India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "visual-merch",
+    "title": "Visual merchandising",
+    "worldId": "business",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Visual merchandising. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Visual merchandising India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "suresh-babu-pinachinnayagari",
+      "viraj-sheth"
+    ]
+  },
+  {
+    "nodeId": "create",
+    "title": "Create",
+    "worldId": "create",
+    "visibleInterim": "Use a world gallery, not a false exact specialist claim",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Create. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Create India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "youtube",
+    "title": "YouTube",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates YouTube. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "YouTube India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "content-researcher",
+    "title": "Content research",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Content research. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Content research India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "scriptwriting",
+    "title": "Video scriptwriting",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Video scriptwriting. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Video scriptwriting India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "channel-strategy",
+    "title": "Channel strategy",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Channel strategy. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Channel strategy India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "youtube-producer",
+    "title": "YouTube production",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates YouTube production. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "YouTube production India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "newsletter",
+    "title": "Newsletters",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Newsletters. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Newsletters India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "ghostwriting",
+    "title": "Ghostwriting",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Ghostwriting. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Ghostwriting India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "ugc",
+    "title": "UGC creation",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates UGC creation. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "UGC creation India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "product-demo",
+    "title": "Product demos",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Product demos. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Product demos India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "brief-reading",
+    "title": "Reading a creative brief",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Reading a creative brief. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Reading a creative brief India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "streaming",
+    "title": "Livestream production",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Livestream production. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Livestream production India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "meme-making",
+    "title": "Meme making",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Meme making. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Meme making India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "storytelling",
+    "title": "Storytelling",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Storytelling. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Storytelling India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "illustration",
+    "title": "Illustration",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Illustration. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Illustration India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "comics",
+    "title": "Comics",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Comics. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Comics India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "product-design",
+    "title": "Product design",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Product design. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Product design India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "block-printing",
+    "title": "Block printing",
+    "worldId": "create",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Block printing. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Block printing India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "ruma-devi",
+      "adil-writer"
+    ]
+  },
+  {
+    "nodeId": "film",
+    "title": "Film",
+    "worldId": "film",
+    "visibleInterim": "Use a world gallery, not a false exact specialist claim",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Film. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Film India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rima-das",
+      "bina-paul"
+    ]
+  },
+  {
+    "nodeId": "conservation-film",
+    "title": "Conservation filmmaking",
+    "worldId": "film",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Conservation filmmaking. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Conservation filmmaking India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rima-das",
+      "bina-paul"
+    ]
+  },
+  {
+    "nodeId": "production-design",
+    "title": "Production design",
+    "worldId": "film",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Production design. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Production design India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rima-das",
+      "bina-paul"
+    ]
+  },
+  {
+    "nodeId": "location",
+    "title": "Location scouting",
+    "worldId": "film",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Location scouting. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Location scouting India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rima-das",
+      "bina-paul"
+    ]
+  },
+  {
+    "nodeId": "props",
+    "title": "Props",
+    "worldId": "film",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Props. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Props India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rima-das",
+      "bina-paul"
+    ]
+  },
+  {
+    "nodeId": "costume",
+    "title": "Costume design",
+    "worldId": "film",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Costume design. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Costume design India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rima-das",
+      "bina-paul"
+    ]
+  },
+  {
+    "nodeId": "screenwriting",
+    "title": "Screenwriting",
+    "worldId": "film",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Screenwriting. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Screenwriting India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rima-das",
+      "bina-paul"
+    ]
+  },
+  {
+    "nodeId": "casting",
+    "title": "Casting",
+    "worldId": "film",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Casting. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Casting India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rima-das",
+      "bina-paul"
+    ]
+  },
+  {
+    "nodeId": "assistant-direction",
+    "title": "Assistant direction",
+    "worldId": "film",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Assistant direction. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Assistant direction India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rima-das",
+      "bina-paul"
+    ]
+  },
+  {
+    "nodeId": "finance",
+    "title": "Money & numbers",
+    "worldId": "finance",
+    "visibleInterim": "Use a world gallery, not a false exact specialist claim",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Money & numbers. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Money & numbers India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "arpinder-singh",
+      "mokshit-kothari"
+    ]
+  },
+  {
+    "nodeId": "data-storytelling",
+    "title": "Data storytelling",
+    "worldId": "finance",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Data storytelling. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Data storytelling India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "arpinder-singh",
+      "mokshit-kothari"
+    ]
+  },
+  {
+    "nodeId": "budgeting",
+    "title": "Budgeting",
+    "worldId": "finance",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Budgeting. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Budgeting India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "arpinder-singh",
+      "mokshit-kothari"
+    ]
+  },
+  {
+    "nodeId": "games",
+    "title": "Games",
+    "worldId": "games",
+    "visibleInterim": "Use a world gallery, not a false exact specialist claim",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Games. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Games India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "shruti-ghosh",
+      "avichal-singh"
+    ]
+  },
+  {
+    "nodeId": "narrative-design",
+    "title": "Narrative design",
+    "worldId": "games",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Narrative design. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Narrative design India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "shruti-ghosh",
+      "avichal-singh"
+    ]
+  },
+  {
+    "nodeId": "game-writing",
+    "title": "Game writing",
+    "worldId": "games",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Game writing. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Game writing India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "shruti-ghosh",
+      "avichal-singh"
+    ]
+  },
+  {
+    "nodeId": "game-ux",
+    "title": "Game UX",
+    "worldId": "games",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Game UX. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Game UX India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "shruti-ghosh",
+      "avichal-singh"
+    ]
+  },
+  {
+    "nodeId": "game-testing",
+    "title": "Game testing",
+    "worldId": "games",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Game testing. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Game testing India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "shruti-ghosh",
+      "avichal-singh"
+    ]
+  },
+  {
+    "nodeId": "game-producer",
+    "title": "Game production",
+    "worldId": "games",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Game production. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Game production India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "shruti-ghosh",
+      "avichal-singh"
+    ]
+  },
+  {
+    "nodeId": "localisation",
+    "title": "Game localisation",
+    "worldId": "games",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Game localisation. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Game localisation India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "shruti-ghosh",
+      "avichal-singh"
+    ]
+  },
+  {
+    "nodeId": "nature",
+    "title": "Nature",
+    "worldId": "nature",
+    "visibleInterim": "Use a world gallery, not a false exact specialist claim",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Nature. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Nature India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rohit-naniwadekar",
+      "divya-mudappa"
+    ]
+  },
+  {
+    "nodeId": "animals",
+    "title": "Animals",
+    "worldId": "nature",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Animals. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Animals India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rohit-naniwadekar",
+      "divya-mudappa"
+    ]
+  },
+  {
+    "nodeId": "bioacoustics",
+    "title": "Bioacoustics",
+    "worldId": "nature",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Bioacoustics. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Bioacoustics India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rohit-naniwadekar",
+      "divya-mudappa"
+    ]
+  },
+  {
+    "nodeId": "birding",
+    "title": "Birdwatching",
+    "worldId": "nature",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Birdwatching. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Birdwatching India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rohit-naniwadekar",
+      "divya-mudappa"
+    ]
+  },
+  {
+    "nodeId": "marine-science",
+    "title": "Marine science",
+    "worldId": "nature",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Marine science. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Marine science India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rohit-naniwadekar",
+      "divya-mudappa"
+    ]
+  },
+  {
+    "nodeId": "urban-ecology",
+    "title": "Urban ecology",
+    "worldId": "nature",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Urban ecology. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Urban ecology India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rohit-naniwadekar",
+      "divya-mudappa"
+    ]
+  },
+  {
+    "nodeId": "stargazing",
+    "title": "Stargazing",
+    "worldId": "nature",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Stargazing. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Stargazing India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rohit-naniwadekar",
+      "divya-mudappa"
+    ]
+  },
+  {
+    "nodeId": "conservation-technology",
+    "title": "Conservation technology",
+    "worldId": "nature",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Conservation technology. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Conservation technology India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rohit-naniwadekar",
+      "divya-mudappa"
+    ]
+  },
+  {
+    "nodeId": "people",
+    "title": "People & places",
+    "worldId": "people",
+    "visibleInterim": "Use a world gallery, not a false exact specialist claim",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates People & places. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "People & places India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "aanchal-malhotra",
+      "anirudh-kanisetti"
+    ]
+  },
+  {
+    "nodeId": "learning-design",
+    "title": "Learning design",
+    "worldId": "people",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Learning design. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Learning design India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "aanchal-malhotra",
+      "anirudh-kanisetti"
+    ]
+  },
+  {
+    "nodeId": "translation",
+    "title": "Translation",
+    "worldId": "people",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Translation. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Translation India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "aanchal-malhotra",
+      "anirudh-kanisetti"
+    ]
+  },
+  {
+    "nodeId": "sports-photo",
+    "title": "Sports photography",
+    "worldId": "photography",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Sports photography. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Sports photography India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rathika-ramasamy",
+      "dayanita-singh"
+    ]
+  },
+  {
+    "nodeId": "portrait-photo",
+    "title": "Portrait photography",
+    "worldId": "photography",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Portrait photography. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Portrait photography India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rathika-ramasamy",
+      "dayanita-singh"
+    ]
+  },
+  {
+    "nodeId": "street-photo",
+    "title": "Street photography",
+    "worldId": "photography",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Street photography. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Street photography India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rathika-ramasamy",
+      "dayanita-singh"
+    ]
+  },
+  {
+    "nodeId": "astro-photo",
+    "title": "Astrophotography",
+    "worldId": "photography",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Astrophotography. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Astrophotography India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rathika-ramasamy",
+      "dayanita-singh"
+    ]
+  },
+  {
+    "nodeId": "underwater-photo",
+    "title": "Underwater photography",
+    "worldId": "photography",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Underwater photography. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Underwater photography India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rathika-ramasamy",
+      "dayanita-singh"
+    ]
+  },
+  {
+    "nodeId": "forensic-photo",
+    "title": "Forensic photography",
+    "worldId": "photography",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Forensic photography. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Forensic photography India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rathika-ramasamy",
+      "dayanita-singh"
+    ]
+  },
+  {
+    "nodeId": "concert-photo",
+    "title": "Concert photography",
+    "worldId": "photography",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Concert photography. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Concert photography India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "rathika-ramasamy",
+      "dayanita-singh"
+    ]
+  },
+  {
+    "nodeId": "play",
+    "title": "Play",
+    "worldId": "play",
+    "visibleInterim": "Use a world gallery, not a false exact specialist claim",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Play. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Play India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "hari-anirudh",
+      "vidit-gujrathi"
+    ]
+  },
+  {
+    "nodeId": "chess-tactics",
+    "title": "Chess tactics",
+    "worldId": "play",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Chess tactics. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Chess tactics India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "hari-anirudh",
+      "vidit-gujrathi"
+    ]
+  },
+  {
+    "nodeId": "chess-composition",
+    "title": "Chess composition",
+    "worldId": "play",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Chess composition. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Chess composition India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "hari-anirudh",
+      "vidit-gujrathi"
+    ]
+  },
+  {
+    "nodeId": "chess-commentary",
+    "title": "Chess commentary",
+    "worldId": "play",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Chess commentary. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Chess commentary India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "hari-anirudh",
+      "vidit-gujrathi"
+    ]
+  },
+  {
+    "nodeId": "cube-lookahead",
+    "title": "Cube lookahead",
+    "worldId": "play",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Cube lookahead. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Cube lookahead India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "hari-anirudh",
+      "vidit-gujrathi"
+    ]
+  },
+  {
+    "nodeId": "board-games",
+    "title": "Board games",
+    "worldId": "play",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Board games. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Board games India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "hari-anirudh",
+      "vidit-gujrathi"
+    ]
+  },
+  {
+    "nodeId": "cooperative-games",
+    "title": "Cooperative games",
+    "worldId": "play",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Cooperative games. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Cooperative games India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "hari-anirudh",
+      "vidit-gujrathi"
+    ]
+  },
+  {
+    "nodeId": "tabletop-rpg",
+    "title": "Tabletop roleplaying",
+    "worldId": "play",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Tabletop roleplaying. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Tabletop roleplaying India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "hari-anirudh",
+      "vidit-gujrathi"
+    ]
+  },
+  {
+    "nodeId": "esports",
+    "title": "Esports",
+    "worldId": "play",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Esports. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Esports India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "hari-anirudh",
+      "vidit-gujrathi"
+    ]
+  },
+  {
+    "nodeId": "speedrunning",
+    "title": "Speedrunning",
+    "worldId": "play",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Speedrunning. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Speedrunning India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "hari-anirudh",
+      "vidit-gujrathi"
+    ]
+  },
+  {
+    "nodeId": "puzzles",
+    "title": "Logic puzzles",
+    "worldId": "play",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Logic puzzles. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Logic puzzles India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "hari-anirudh",
+      "vidit-gujrathi"
+    ]
+  },
+  {
+    "nodeId": "carrom",
+    "title": "Carrom",
+    "worldId": "play",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Carrom. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Carrom India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "hari-anirudh",
+      "vidit-gujrathi"
+    ]
+  },
+  {
+    "nodeId": "mixing",
+    "title": "Mixing",
+    "worldId": "sound",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Mixing. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Mixing India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "karan-arjun-singh",
+      "mae-mariyam-thomas"
+    ]
+  },
+  {
+    "nodeId": "mastering",
+    "title": "Mastering",
+    "worldId": "sound",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Mastering. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Mastering India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "karan-arjun-singh",
+      "mae-mariyam-thomas"
+    ]
+  },
+  {
+    "nodeId": "field-recording",
+    "title": "Field recording",
+    "worldId": "sound",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Field recording. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Field recording India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "karan-arjun-singh",
+      "mae-mariyam-thomas"
+    ]
+  },
+  {
+    "nodeId": "podcast-booker",
+    "title": "Podcast guest booking",
+    "worldId": "sound",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Podcast guest booking. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Podcast guest booking India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "karan-arjun-singh",
+      "mae-mariyam-thomas"
+    ]
+  },
+  {
+    "nodeId": "arranging",
+    "title": "Music arranging",
+    "worldId": "sound",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Music arranging. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Music arranging India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "karan-arjun-singh",
+      "mae-mariyam-thomas"
+    ]
+  },
+  {
+    "nodeId": "voice",
+    "title": "Voice performance",
+    "worldId": "sound",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Voice performance. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Voice performance India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "karan-arjun-singh",
+      "mae-mariyam-thomas"
+    ]
+  },
+  {
+    "nodeId": "live-sound",
+    "title": "Live sound",
+    "worldId": "sound",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Live sound. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Live sound India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "karan-arjun-singh",
+      "mae-mariyam-thomas"
+    ]
+  },
+  {
+    "nodeId": "sports",
+    "title": "Sport",
+    "worldId": "sports",
+    "visibleInterim": "Use a world gallery, not a false exact specialist claim",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Sport. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Sport India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "s-ramakrishnan",
+      "manasi-joshi"
+    ]
+  },
+  {
+    "nodeId": "kabaddi",
+    "title": "Kabaddi",
+    "worldId": "sports",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Kabaddi. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Kabaddi India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "s-ramakrishnan",
+      "manasi-joshi"
+    ]
+  },
+  {
+    "nodeId": "sports-commentary",
+    "title": "Sports commentary",
+    "worldId": "sports",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Sports commentary. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Sports commentary India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "s-ramakrishnan",
+      "manasi-joshi"
+    ]
+  },
+  {
+    "nodeId": "sports-journalism",
+    "title": "Sports journalism",
+    "worldId": "sports",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Sports journalism. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Sports journalism India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "s-ramakrishnan",
+      "manasi-joshi"
+    ]
+  },
+  {
+    "nodeId": "esports-production",
+    "title": "Esports production",
+    "worldId": "sports",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Esports production. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Esports production India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "s-ramakrishnan",
+      "manasi-joshi"
+    ]
+  },
+  {
+    "nodeId": "ultimate",
+    "title": "Ultimate frisbee",
+    "worldId": "sports",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Ultimate frisbee. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Ultimate frisbee India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "s-ramakrishnan",
+      "manasi-joshi"
+    ]
+  },
+  {
+    "nodeId": "technology",
+    "title": "Technology",
+    "worldId": "technology",
+    "visibleInterim": "Use a world gallery, not a false exact specialist claim",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Technology. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Technology India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "kailash-nadh",
+      "anirudha-joshi"
+    ]
+  },
+  {
+    "nodeId": "data-visualisation",
+    "title": "Data visualisation",
+    "worldId": "technology",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Data visualisation. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Data visualisation India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "kailash-nadh",
+      "anirudha-joshi"
+    ]
+  },
+  {
+    "nodeId": "gis",
+    "title": "Digital mapping",
+    "worldId": "technology",
+    "visibleInterim": "Show explicitly labelled broader field stories alongside the complete activity",
+    "researchQuestion": "Find a named practitioner whose public work explicitly demonstrates Digital mapping. Look for a first person account of early experiments and a concrete work example.",
+    "suggestedSearch": "Digital mapping India practitioner official portfolio interview",
+    "mustCheck": [
+      "Exact work connection, not only an adjacent job title",
+      "Real identity and dated source",
+      "No invented discovery anecdote or habits",
+      "Reusable portrait or permission",
+      "Working article or video URL"
+    ],
+    "relatedPeople": [
+      "kailash-nadh",
+      "anirudha-joshi"
+    ]
+  }
+]
