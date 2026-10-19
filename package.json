@@ -1,5 +1,5 @@
 {
-  "name": "offbeat",
+  "name": "gowonder",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite --host 127.0.0.1",
     "build": "node scripts/audit-publication.mjs && tsc --noEmit && vite build",
-    "check:data": "node scripts/validate-data.mjs && node scripts/audit-publication.mjs"
+    "check:data": "node scripts/validate-data.mjs && node scripts/audit-publication.mjs && node scripts/check-storage.mjs"
   },
   "dependencies": {
     "react": "^19.1.1",

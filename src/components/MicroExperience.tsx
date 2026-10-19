@@ -1,7 +1,9 @@
 import{useState}from'react';
 import{RhythmExperiment,StoryExperiment}from'./CreativeExperiments';
+import{RecommendationExperiment}from'./RecommendationExperiment';
 import{MiniGame}from'../MiniGame';
 export function MicroExperience({id}:{id:string}){const[answer,setAnswer]=useState(''),[count,setCount]=useState(0);
+if(['recommendation-systems','ranking','personalization','machine-learning'].includes(id))return <RecommendationExperiment/>;
 if(['composition','songwriting','game-music','sound','sitar','hip-hop'].includes(id))return <RhythmExperiment/>;
 if(['storytelling','documentary','conservation-film','wildlife-film','narrative-design','game-writing','editing'].includes(id))return <StoryExperiment/>;
 if(['chess','tabletop','game-design'].includes(id))return <MiniGame id={id==='game-design'?'tabletop':id}/>;

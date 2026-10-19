@@ -1,0 +1,2 @@
+export function WonderMark(){return <svg viewBox="0 0 44 44" fill="none" aria-hidden="true"><path d="M9 31V14a5 5 0 0 1 5-5h15M9 23h13a7 7 0 0 0 7-7V9M22 23v12" stroke="currentColor" strokeWidth="3" strokeLinecap="round"/><circle cx="9" cy="32" r="4" fill="#ed8e61"/><circle cx="30" cy="9" r="4" fill="#e9c559"/><circle cx="22" cy="35" r="4" fill="currentColor"/></svg>}
+export function Brand({onClick}:{onClick:()=>void}){return <button className="wonder-brand" onClick={onClick} aria-label="GoWonder home"><WonderMark/><span>Go<span>Wonder</span><i>↗</i></span></button>}

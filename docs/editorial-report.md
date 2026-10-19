@@ -1,8 +1,8 @@
-# Offbeat editorial report
+# GoWonder editorial report
 
-143 published possibilities, 17 world/group entrances, 83 preserved unpublished candidates.
+150 published possibilities, 17 world/group entrances, 83 preserved unpublished candidates.
 
-Every public possibility has a direct saved practitioner relationship and three activity levels. 11 have a video link and 30 have more than one practitioner. There are 60 licensed portraits among 108 people. Other people have source cards, not invented faces.
+Every public possibility has a direct saved practitioner relationship and three activity levels. 18 have a video link and 36 have more than one practitioner. There are 60 licensed portraits among 110 people. Other people have source cards, not invented faces.
 
 Evidence from earlier research is reused, not represented as newly checked. Explicit dates identify sources revisited in this revision. A complete live link audit is still pending. Automated retrieval failed for four URLs recorded in the JSON report; these failures are not labelled confirmed dead links.
 

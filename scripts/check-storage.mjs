@@ -1,0 +1,14 @@
+import fs from 'node:fs';
+import ts from 'typescript';
+import assert from 'node:assert/strict';
+let code=ts.transpileModule(fs.readFileSync('src/state.ts','utf8')+'\nexport {initial};',{compilerOptions:{target:ts.ScriptTarget.ES2022,module:ts.ModuleKind.ESNext}}).outputText;
+code=code.replace(/^import .*?from ['"]react['"];?\s*$/m,'');
+const values=new Map();globalThis.localStorage={getItem:key=>values.get(key)??null};
+const {initial}=await import('data:text/javascript;base64,'+Buffer.from(code).toString('base64'));
+assert.deepEqual(initial().saved,[]);
+values.set('offbeat-v2',JSON.stringify({saved:['wildlife'],people:['aishwarya-sridhar'],notes:{wildlife:{levels:[1,3],note:'Keep this reflection'}},trail:['photo','wildlife']}));
+assert.deepEqual(initial().saved,['wildlife']);assert.deepEqual(initial().notes.wildlife.levels,[1,3]);assert.equal(initial().notes.wildlife.note,'Keep this reflection');
+values.set('gowonder-v1',JSON.stringify({saved:['recommendation-systems'],questions:['netflix'],routes:[{id:'question:netflix',title:'Netflix',ids:['question:netflix']}]}));
+assert.deepEqual(initial().saved,['recommendation-systems']);assert.deepEqual(initial().questions,['netflix']);assert.equal(initial().routes[0].ids[0],'question:netflix');
+values.set('gowonder-v1','invalid JSON');assert.deepEqual(initial().saved,['wildlife']);values.clear();values.set('offbeat-saved','["foley"]');assert.deepEqual(initial().saved,['foley']);
+console.log('Guest storage migration: current, previous, legacy and malformed JSON checks passed.');

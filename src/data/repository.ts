@@ -1,22 +1,24 @@
 import {possibilities,activities,resources as originalResources,relationships} from './catalog';
+import {recommendationNodes,recommendationLearning} from './recommendations';
+import {recommendationPeople,recommendationResources} from './recommendation-people';
 import {savedEvidence} from './saved-evidence';
 import {peopleExtra} from './people-extra';
 import {resourcesExtra} from './resources-extra';
 import {questions,familiarWorlds} from './discovery';
 import {learningById as savedLearning} from './learning';
 import {expansionPeople,expansionNodes,expansionLearning} from './expansion';
-export const learningById={...savedLearning,...expansionLearning};
-const resources=[...originalResources,...resourcesExtra];
+export const learningById={...savedLearning,...expansionLearning,...recommendationLearning};
+const resources=[...originalResources,...resourcesExtra,...recommendationResources];
 import {peopleA} from './people-a';
 import {peopleB} from './people-b';
 import type {Person,Possibility} from './types';
-const savedPeople:Person[]=[...peopleA,...peopleB,...peopleExtra,...expansionPeople].filter((p,i,a)=>a.findIndex(x=>x.id===p.id)===i);
+const savedPeople:Person[]=[...peopleA,...peopleB,...peopleExtra,...expansionPeople,...recommendationPeople].filter((p,i,a)=>a.findIndex(x=>x.id===p.id)===i);
 // Preserve the previously researched, direct connections. Broad suggestions never qualify.
 const rechecked=['karan-arjun-singh','suresh-babu-pinachinnayagari','rikesh-thakrar','aishwarya-sridhar','harry-alisavakis','avani-lekhara','shruti-ghosh'];
 export const people:Person[]=savedPeople.map(p=>({...p,connectedNodeIds:[...new Set([...p.connectedNodeIds,...(p.id==='aishwarya-sridhar'?['conservation-film']:[])])],verificationStatus:p.verificationStatus||(savedEvidence[p.id]?'verified':'needs_review'),evidenceUrls:p.evidenceUrls||savedEvidence[p.id]?.evidenceUrls||p.sourceUrls,evidenceType:p.evidenceType||'attributable practitioner profile or documented work',sourceVerifiedAt:rechecked.includes(p.id)?'2026-10-19':p.sourceVerifiedAt,verificationBasis:rechecked.includes(p.id)||p.sourceVerifiedAt==='2026-10-19'?'Primary evidence revisited on 19 October 2026':'Preserved direct relationship from saved research; link health not rechecked in this revision'}));
 export const personById=Object.fromEntries(people.map(p=>[p.id,p]));
 const searchAliases:Record<string,string[]>={'sales-engineering':['sales engineer','solutions engineer','presales','pre sales'],'b2b-sales':['B2B','business to business'],'b2c-sales':['B2C','business to consumer'],'forensic-accounting':['forensic accounts','financial investigation'],'thumbnail':['youtube thumbnail','thumbnail designer'],'ux':['user experience','UX design'],'ux-research':['user research'],'accounting':['ACCA','chartered accounting'],'foley':['foley artist','movie sound effects'],'sdr':['SDR','sales development representative'],'revops':['RevOps'],'game-economy-design':['game economy designer'],'creator-manager':['creator management','influencer manager'],'narrative-design':['game narrative','interactive storytelling']};
-const migrated:Possibility[]=[...possibilities,...expansionNodes].map(n=>({...n,resourceIds:learningById[n.id]?.resourceIds||n.resourceIds,aliases:[...n.aliases,...(searchAliases[n.id]||[])],peopleIds:people.filter(p=>p.verificationStatus==='verified'&&p.connectedNodeIds.includes(n.id)&&(savedEvidence[p.id]?.nodeIds.includes(n.id)||expansionPeople.some(e=>e.id===p.id&&e.connectedNodeIds.includes(n.id))||p.id==='aishwarya-sridhar'&&n.id==='conservation-film')).map(p=>p.id)}));
+const migrated:Possibility[]=[...possibilities,...expansionNodes,...recommendationNodes].map(n=>({...n,resourceIds:learningById[n.id]?.resourceIds||n.resourceIds,aliases:[...n.aliases,...(searchAliases[n.id]||[])],peopleIds:people.filter(p=>p.verificationStatus==='verified'&&p.connectedNodeIds.includes(n.id)&&(savedEvidence[p.id]?.nodeIds.includes(n.id)||expansionPeople.some(e=>e.id===p.id&&e.connectedNodeIds.includes(n.id))||recommendationPeople.some(e=>e.id===p.id&&e.connectedNodeIds.includes(n.id))||p.id==='aishwarya-sridhar'&&n.id==='conservation-film')).map(p=>p.id)}));
 const rawIndex=Object.fromEntries(migrated.map(n=>[n.id,n]));
 const publicIds=new Set(migrated.filter(n=>n.nodeType==='world'||n.peopleIds.some(id=>people.find(p=>p.id===id)?.verificationStatus==='verified')).map(n=>n.id));
 // Walk through unpublished intermediates so retained, evidenced descendants remain reachable.
@@ -28,6 +30,8 @@ export const byId=Object.fromEntries(allPossibilities.map(n=>[n.id,n]));
 for(const [parent,child] of [['games','play'],['create','photography'],['game-art','technical-art'],['wildlife','conservation-film'],['foley','game-audio'],['sport-shooting','performance-analysis'],['saas-sales','sales-engineering']])if(byId[parent]&&byId[child]&&!byId[parent].childIds.includes(child))byId[parent].relatedIds=[...new Set([...byId[parent].relatedIds,child])];
 if(byId.sports)byId.sports.childIds=[...expansionNodes.filter(n=>n.nodeType==='world'&&n.id!=='science').map(n=>n.id),...byId.sports.childIds];
 if(byId['sport-shooting'])byId['sport-shooting'].relatedIds.unshift('sports-science');
+for(const id of ['technology','finance'])if(byId[id])byId[id].childIds.unshift('recommendation-systems');
+if(byId['sports-data'])byId['sports-data'].relatedIds.unshift('data-science');
 if(byId.business)byId.business.childIds=[...new Set(['b2b-sales',...byId.business.childIds])];
 export const activityById=Object.fromEntries(activities.map(a=>[a.id,a]));
 export const resourceById=Object.fromEntries(resources.map(r=>[r.id,r]));
