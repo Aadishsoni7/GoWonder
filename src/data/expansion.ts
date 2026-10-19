@@ -14,3 +14,102 @@ function path(id:string,tasks:string[]):LearningPath{return {levels:tasks.map((t
 export const expansionLearning:Record<string,LearningPath>=Object.fromEntries(expansionNodes.map(n=>[n.id,path(n.id,entries.find(e=>e.id===n.id)?.tasks||['Choose one field below. Write an observation from its official source and a question you still have.','Compare two examples in this world. Make a small table of what is similar and what is different.','Choose a connected practitioner. Read their evidence page and plan a safe next observation.'])]));
 
 expansionPeople.push({id:'dhinesh-khanna',name:'Dhinesh Khanna Ramalingam',role:'Customer success practitioner',country:'India',personType:'practitioner',portraitStatus:'permission_or_licence_needed',shortStory:'Dhinesh describes beginning in technical support and later leading customer success at Zoho. His team helps people get started, resolve technical questions and make use of products after a purchase.',journeySummary:['Technical support','Learn from customer questions','Customer success'],sourceUrls:['https://www.zoho.com/humans-of-zoho/dhinesh-khanna.html'],officialSite:'https://www.zoho.com/humans-of-zoho/dhinesh-khanna.html',connectedNodeIds:['customer-success'],verificationStatus:'verified',sourceVerifiedAt:'2026-10-19',evidenceUrls:['https://www.zoho.com/humans-of-zoho/dhinesh-khanna.html'],evidenceType:'first person company interview'},{id:'mark-burgener',name:'Mark Burgener',role:'Business software sales practitioner',location:'United States',country:'United States',personType:'practitioner',portraitStatus:'permission_or_licence_needed',shortStory:'Mark describes supporting Zoho’s mid market sales team, helping with customer conversations and written proposals. His interview offers a view of software sales as listening, explanation and work with a team.',journeySummary:['Work with software customers','Help with proposals','Support a sales team'],sourceUrls:['https://www.zoho.com/humans-of-zoho/mark.html','https://help.zoho.com/portal/en/kb/crm/crm-reference/product-architecture-and-reliability/articles/zoho-crm-saas-architecture-and-deployment-options'],officialSite:'https://www.zoho.com/humans-of-zoho/mark.html',connectedNodeIds:['sales','b2b-sales','saas-sales'],verificationStatus:'verified',sourceVerifiedAt:'2026-10-19',evidenceUrls:['https://www.zoho.com/humans-of-zoho/mark.html'],evidenceType:'first person company interview; SaaS product context'});
+
+expansionPeople.push(...[
+  {
+    "id": "meghna-jayanth",
+    "name": "Meghna Jayanth",
+    "role": "Game writer and narrative designer",
+    "location": "International practitioner",
+    "country": "International practitioner",
+    "connectedNodeIds": [
+      "narrative-design",
+      "game-writing"
+    ],
+    "shortStory": "Meghna writes stories that respond to a player’s choices. Her work includes 80 Days, and she shares talks about writing characters and designing interactive stories.",
+    "sourceUrls": [
+      "https://meghnajayanth.carrd.co/",
+      "https://www.gdcvault.com/play/1022101/Leading-Players-Astray"
+    ],
+    "officialSite": "https://meghnajayanth.carrd.co/",
+    "journeySummary": [
+      "Game writer and narrative designer",
+      "Explore documented work",
+      "Follow the evidence"
+    ],
+    "personType": "practitioner",
+    "portraitStatus": "permission_or_licence_needed",
+    "evidenceUrls": [
+      "https://meghnajayanth.carrd.co/",
+      "https://www.gdcvault.com/play/1022101/Leading-Players-Astray"
+    ],
+    "evidenceType": "personal portfolio or professional teaching biography",
+    "verificationStatus": "verified",
+    "sourceVerifiedAt": "2026-10-19"
+  },
+  {
+    "id": "jeff-ignacio",
+    "name": "Jeff Ignacio",
+    "role": "Revenue and sales operations practitioner",
+    "location": "United States",
+    "country": "United States",
+    "connectedNodeIds": [
+      "revops",
+      "sales-ops",
+      "newsletter"
+    ],
+    "shortStory": "Jeff moved from financial planning into the systems and processes behind sales. He teaches revenue operations and shares his experience through a newsletter and practical frameworks.",
+    "sourceUrls": [
+      "https://www.revopscoop.com/courses/unleashing-r-o-i-on-demand",
+      "https://revopscoop.substack.com/p/revops-co-op-weekly-98-the-process"
+    ],
+    "officialSite": "https://www.revopscoop.com/courses/unleashing-r-o-i-on-demand",
+    "journeySummary": [
+      "Revenue and sales operations practitioner",
+      "Explore documented work",
+      "Follow the evidence"
+    ],
+    "personType": "practitioner",
+    "portraitStatus": "permission_or_licence_needed",
+    "evidenceUrls": [
+      "https://www.revopscoop.com/courses/unleashing-r-o-i-on-demand",
+      "https://revopscoop.substack.com/p/revops-co-op-weekly-98-the-process"
+    ],
+    "evidenceType": "personal portfolio or professional teaching biography",
+    "verificationStatus": "verified",
+    "sourceVerifiedAt": "2026-10-19"
+  },
+  {
+    "id": "varun-grover",
+    "name": "Varun Grover",
+    "role": "Screenwriter, lyricist and comedian",
+    "location": "India",
+    "country": "India",
+    "connectedNodeIds": [
+      "screenwriting",
+      "songwriting",
+      "standup",
+      "direction"
+    ],
+    "shortStory": "Varun began in engineering and found his way into writing. His portfolio connects screenwriting, songs, comedy and directing, showing that one person can follow several creative threads.",
+    "sourceUrls": [
+      "https://varungrover.co/",
+      "https://varungrover.co/screenwriter"
+    ],
+    "officialSite": "https://varungrover.co/",
+    "journeySummary": [
+      "Screenwriter, lyricist and comedian",
+      "Explore documented work",
+      "Follow the evidence"
+    ],
+    "personType": "practitioner",
+    "portraitStatus": "permission_or_licence_needed",
+    "evidenceUrls": [
+      "https://varungrover.co/",
+      "https://varungrover.co/screenwriter"
+    ],
+    "evidenceType": "personal portfolio or professional teaching biography",
+    "verificationStatus": "verified",
+    "sourceVerifiedAt": "2026-10-19"
+  }
+] as Person[]);

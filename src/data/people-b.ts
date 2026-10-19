@@ -443,7 +443,8 @@ export const peopleB:Person[]=[
     "country": "India",
     "personType": "practitioner",
     "connectedNodeIds": [
-      "game-design"
+      "game-design",
+      "youtube"
     ],
     "shortStory": "Playing games led him to learning how games are made and sharing that process.",
     "journeySummary": [
@@ -455,7 +456,8 @@ export const peopleB:Person[]=[
     "officialSite": "https://www.nikhilmalankar.com/",
     "sourceUrls": [
       "https://www.nikhilmalankar.com/",
-      "https://commons.wikimedia.org/wiki/File:Nikhil_malankar.jpg"
+      "https://commons.wikimedia.org/wiki/File:Nikhil_malankar.jpg",
+      "https://www.nikhilmalankar.com/aboutus"
     ],
     "youtubeVideoId": "MMe5Kgg4nNc",
     "videoTitle": "How I Became A Game Developer",
@@ -463,7 +465,8 @@ export const peopleB:Person[]=[
     "imageCredit": "Nikhileditor",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Nikhil_malankar.jpg",
-    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceVerifiedAt": "2026-10-19"
   },
   {
     "id": "kailash-nadh",

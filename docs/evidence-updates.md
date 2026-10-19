@@ -18,3 +18,10 @@ Source checks took place on 19 October 2026. These are evidence of the specific 
 - Mahesh Panchagnula: https://ioe.iitm.ac.in/project/sports-science-and-analytics/ — university sports science and analytics projects and named research role.
 
 No new portrait was downloaded without an established reuse licence. No video ID was guessed. Retrieval failures are recorded in the editorial JSON; unavailable alternatives were not used to invent practitioner records.
+
+## Additional paths restored in the readability revision
+
+- Meghna Jayanth: https://meghnajayanth.carrd.co/ and https://www.gdcvault.com/play/1022101/Leading-Players-Astray support narrative design and game writing.
+- Jeff Ignacio: https://www.revopscoop.com/courses/unleashing-r-o-i-on-demand and https://revopscoop.substack.com/p/revops-co-op-weekly-98-the-process support revenue operations, sales operations and an authored newsletter.
+- Varun Grover: https://varungrover.co/screenwriter documents screenwriting credits. His own home page describes the engineering to writing transition.
+- Nikhil Malankar: https://www.nikhilmalankar.com/aboutus explicitly explains starting a YouTube channel about game development. The historical employment title on that page was not copied as a current claim.

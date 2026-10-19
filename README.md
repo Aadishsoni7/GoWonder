@@ -19,11 +19,17 @@ This is a static React, TypeScript and Vite app. There is no account or backend 
 
 The homepage now starts with familiar worlds and curiosity questions. Surprise Me opens a question in the graph, with another question available without immediate repetition. In-map practitioner buttons, three levels, saving and existing mini games are preserved. Rhythm and scene ordering demonstrations are added. The questionnaire is not exposed.
 
-There are 136 public possibilities, 17 world/group entrances and 105 practitioner records. Sixty portraits have licensed local assets; other profiles link to sourced work. Ninety candidate entries remain in the editorial registry until a directly relevant practitioner connection is established. Their existing IDs, level content and saved notes are preserved. Broader stories no longer qualify as exact evidence for publishing a possibility.
+There are 143 public possibilities, 17 world/group entrances and 108 practitioner records. Sixty portraits have licensed local assets; other profiles link to sourced work. Eighty-three candidate entries remain in the editorial registry until a directly relevant practitioner connection is established. Their existing IDs, level content and saved notes are preserved. Broader stories no longer qualify as exact evidence for publishing a possibility.
 
 `pnpm check:data` checks both retained raw data and the public map. The publication audit writes `docs/editorial-report.json` and its readable Markdown counterpart. Earlier source research is reused rather than represented as freshly checked. See `docs/evidence-updates.md` for this revision's targeted source checks and `docs/upgrade-validation.md` for browser checks and limitations.
 
 The animated colour backdrop uses vector drawings, CSS gradients and reduced motion support. No autoplay audio or video is introduced. No backend, authentication or payments are added.
+
+## Readability and discovery layers
+
+The map identifies each exploration layer and keeps labelled steps in its trail. Reading cards now use darker text, larger body copy and bold sans-serif headings. Decorative elements behind text are quieter. The original expressive homepage headline is retained.
+
+Targeted research restored seven additional paths: YouTube creation, narrative design, game writing, screenwriting, revenue operations, sales operations and newsletters. New practitioner profiles are Meghna Jayanth, Jeff Ignacio and Varun Grover. Nikhil Malankar's own biography supports the YouTube connection. No new portrait or video ID was fabricated.
 
 ## Historical revision of 18 October 2026
 

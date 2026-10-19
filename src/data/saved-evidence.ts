@@ -461,13 +461,15 @@ export const savedEvidence:Record<string,{nodeIds:string[];evidenceUrls:string[]
   },
   "nikhil-malankar": {
     "nodeIds": [
-      "game-design"
+      "game-design",
+      "youtube"
     ],
     "evidenceUrls": [
       "https://www.nikhilmalankar.com/",
-      "https://commons.wikimedia.org/wiki/File:Nikhil_malankar.jpg"
+      "https://commons.wikimedia.org/wiki/File:Nikhil_malankar.jpg",
+      "https://www.nikhilmalankar.com/aboutus"
     ],
-    "basis": "Direct connections preserved from prior Offbeat research. Current URL availability not rechecked."
+    "basis": "Own biography describes starting a YouTube channel to share game development knowledge; checked 19 October 2026."
   },
   "kailash-nadh": {
     "nodeIds": [

@@ -32,6 +32,10 @@ Also checked: Surprise Me and a different subsequent surprise; three distinct Fo
 
 ## Limits still visible
 
-See editorial-report.json for current counts and candidate IDs. Ninety candidates still need exact practitioner evidence. They are retained rather than filled with unrelated examples. The source ledger reuses earlier research; this revision is not a fresh audit of every external URL. All external videos have not been played end to end. Some source-only people still need a licensed portrait. Broader sports and creator coverage listed in the product brief remains an editorial queue, not a claim of complete coverage. The production build reports a large JavaScript bundle warning.
+See editorial-report.json for current counts and candidate IDs. Eighty-three candidates still need exact practitioner evidence. They are retained rather than filled with unrelated examples. The source ledger reuses earlier research; this revision is not a fresh audit of every external URL. All external videos have not been played end to end. Some source-only people still need a licensed portrait. Broader sports and creator coverage listed in the product brief remains an editorial queue, not a claim of complete coverage. The production build reports a large JavaScript bundle warning.
 
 The portable HTML is a local website artifact. A GitHub source link is not a hosted application URL.
+
+## Subsequent readability and layer refinement
+
+Layer number and current discovery are visible above the canvas, with individually labelled prior layers below. Text is darker, body copy is 17 pixels, map headings use a bold sans-serif face and decoration behind text is reduced. Seven candidates were restored through targeted primary research. Browser checks followed YouTube at Layer 3 into Thumbnail Design at Layer 4, and opened Meghna Jayanth from Narrative Design. Mobile and production checks are repeated for this refinement.

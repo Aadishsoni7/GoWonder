@@ -1,8 +1,8 @@
 # Offbeat editorial report
 
-136 published possibilities, 17 world/group entrances, 90 preserved unpublished candidates.
+143 published possibilities, 17 world/group entrances, 83 preserved unpublished candidates.
 
-Every public possibility has a direct saved practitioner relationship and three activity levels. 10 have a video link and 30 have more than one practitioner. There are 60 licensed portraits among 105 people. Other people have source cards, not invented faces.
+Every public possibility has a direct saved practitioner relationship and three activity levels. 11 have a video link and 30 have more than one practitioner. There are 60 licensed portraits among 108 people. Other people have source cards, not invented faces.
 
 Evidence from earlier research is reused, not represented as newly checked. Explicit dates identify sources revisited in this revision. A complete live link audit is still pending. Automated retrieval failed for four URLs recorded in the JSON report; these failures are not labelled confirmed dead links.
 
@@ -12,7 +12,6 @@ The full candidate registry and existing saved notes are retained. Candidates ar
 
 - Sales development (sdr)
 - Account executive (account-executive)
-- Revenue operations (revops)
 - Enterprise sales (enterprise-sales)
 - Small business sales (smb-sales)
 - Industrial sales (industrial-sales)
@@ -22,17 +21,14 @@ The full candidate registry and existing saved notes are retained. Candidates ar
 - Direct sales (direct-sales)
 - Inside sales (inside-sales)
 - Field sales (field-sales)
-- Sales operations (sales-ops)
 - Sales enablement (sales-enablement)
 - Sponsorship sales (sponsorship-sales)
 - Community events (events)
 - Visual merchandising (visual-merch)
-- YouTube (youtube)
 - Content research (content-researcher)
 - Video scriptwriting (scriptwriting)
 - Channel strategy (channel-strategy)
 - YouTube production (youtube-producer)
-- Newsletters (newsletter)
 - Ghostwriting (ghostwriting)
 - UGC creation (ugc)
 - Product demos (product-demo)
@@ -44,8 +40,6 @@ The full candidate registry and existing saved notes are retained. Candidates ar
 - Comics (comics)
 - Product design (product-design)
 - Block printing (block-printing)
-- Narrative design (narrative-design)
-- Game writing (game-writing)
 - Game UX (game-ux)
 - Game testing (game-testing)
 - Game production (game-producer)
@@ -72,7 +66,6 @@ The full candidate registry and existing saved notes are retained. Candidates ar
 - Location scouting (location)
 - Props (props)
 - Costume design (costume)
-- Screenwriting (screenwriting)
 - Casting (casting)
 - Assistant direction (assistant-direction)
 - Mixing (mixing)

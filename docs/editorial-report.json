@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-19T12:48:15.083Z",
-  "totalPublishedPossibilities": 136,
+  "generatedAt": "2026-10-19T13:43:57.106Z",
+  "totalPublishedPossibilities": 143,
   "totalPublishedWorlds": 17,
-  "totalUnpublishedCandidates": 90,
+  "totalUnpublishedCandidates": 83,
   "publishedNodesMissingExactPractitionerEvidence": [],
-  "nodesWithThreeLevels": 153,
-  "nodesWithVideo": 10,
+  "nodesWithThreeLevels": 160,
+  "nodesWithVideo": 11,
   "nodesWithMultipleVerifiedPeople": 30,
-  "people": 105,
+  "people": 108,
   "portraits": 60,
   "questionsNeedingSpecificCopy": [],
   "linkHealth": {
@@ -29,11 +29,6 @@
     {
       "id": "account-executive",
       "title": "Account executive",
-      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
-    },
-    {
-      "id": "revops",
-      "title": "Revenue operations",
       "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
     },
     {
@@ -82,11 +77,6 @@
       "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
     },
     {
-      "id": "sales-ops",
-      "title": "Sales operations",
-      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
-    },
-    {
       "id": "sales-enablement",
       "title": "Sales enablement",
       "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
@@ -107,11 +97,6 @@
       "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
     },
     {
-      "id": "youtube",
-      "title": "YouTube",
-      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
-    },
-    {
       "id": "content-researcher",
       "title": "Content research",
       "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
@@ -129,11 +114,6 @@
     {
       "id": "youtube-producer",
       "title": "YouTube production",
-      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
-    },
-    {
-      "id": "newsletter",
-      "title": "Newsletters",
       "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
     },
     {
@@ -189,16 +169,6 @@
     {
       "id": "block-printing",
       "title": "Block printing",
-      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
-    },
-    {
-      "id": "narrative-design",
-      "title": "Narrative design",
-      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
-    },
-    {
-      "id": "game-writing",
-      "title": "Game writing",
       "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
     },
     {
@@ -329,11 +299,6 @@
     {
       "id": "costume",
       "title": "Costume design",
-      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
-    },
-    {
-      "id": "screenwriting",
-      "title": "Screenwriting",
       "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
     },
     {
