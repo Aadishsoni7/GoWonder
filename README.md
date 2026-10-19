@@ -13,9 +13,22 @@ pnpm check:data
 pnpm build
 ```
 
-This is a static React, TypeScript and Vite app. There is no account or backend sync. Notes, saved discoveries and tried levels stay in this browser. Hash routes support fields, person stories, the directory, notebook and optional curiosity check, including the standalone export.
+This is a static React, TypeScript and Vite app. There is no account or backend sync. Notes, saved discoveries and tried levels stay in this browser. Hash routes support fields, person stories, the directory and notebook, including the standalone export.
 
-## Revision of 18 October 2026
+## Current revision: 19 October 2026
+
+The homepage now starts with familiar worlds and curiosity questions. Surprise Me opens a question in the graph, with another question available without immediate repetition. In-map practitioner buttons, three levels, saving and existing mini games are preserved. Rhythm and scene ordering demonstrations are added. The questionnaire is not exposed.
+
+There are 136 public possibilities, 17 world/group entrances and 105 practitioner records. Sixty portraits have licensed local assets; other profiles link to sourced work. Ninety candidate entries remain in the editorial registry until a directly relevant practitioner connection is established. Their existing IDs, level content and saved notes are preserved. Broader stories no longer qualify as exact evidence for publishing a possibility.
+
+`pnpm check:data` checks both retained raw data and the public map. The publication audit writes `docs/editorial-report.json` and its readable Markdown counterpart. Earlier source research is reused rather than represented as freshly checked. See `docs/evidence-updates.md` for this revision's targeted source checks and `docs/upgrade-validation.md` for browser checks and limitations.
+
+The animated colour backdrop uses vector drawings, CSS gradients and reduced motion support. No autoplay audio or video is introduced. No backend, authentication or payments are added.
+
+## Historical revision of 18 October 2026
+
+The following describes the previous version; the current publication gate and deferred questionnaire supersede it.
+
 
 All 233 existing map entries now have three distinct authored tasks: 699 level drafts in total. The levels move from a small starter through repeated practice to a deeper project or supervised learning plan. Materials, later tools, reflection and optional completion are included. The old empty activity message and repeated deeper description fallback have been replaced. The 56 original activity records remain for historical content and reflection choices; the three level pathways drive the current interface.
 

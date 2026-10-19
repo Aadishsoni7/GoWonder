@@ -1,0 +1,475 @@
+{
+  "generatedAt": "2026-10-19T12:48:15.083Z",
+  "totalPublishedPossibilities": 136,
+  "totalPublishedWorlds": 17,
+  "totalUnpublishedCandidates": 90,
+  "publishedNodesMissingExactPractitionerEvidence": [],
+  "nodesWithThreeLevels": 153,
+  "nodesWithVideo": 10,
+  "nodesWithMultipleVerifiedPeople": 30,
+  "people": 105,
+  "portraits": 60,
+  "questionsNeedingSpecificCopy": [],
+  "linkHealth": {
+    "notAFullLiveLinkAudit": true,
+    "unavailableInThisPass": [
+      "https://iwf.sport/w48kg-mirabai-chanu-saikhom-ind/",
+      "https://bwfbadminton.com/player/73173/pusarla-v-sindhu/",
+      "https://bwfworldchampionships.bwfbadminton.com/tournament/5195/yonex-swiss-open-2025/players/?tab=ws",
+      "https://www.youtube.com/watch?v=J07Jtms2ZF4"
+    ],
+    "note": "Unavailable to automated retrieval is not proof of a broken public link. The two athlete pages were not used as new evidence. Saved research is preserved; only explicitly dated records were revisited."
+  },
+  "unpublished": [
+    {
+      "id": "sdr",
+      "title": "Sales development",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "account-executive",
+      "title": "Account executive",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "revops",
+      "title": "Revenue operations",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "enterprise-sales",
+      "title": "Enterprise sales",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "smb-sales",
+      "title": "Small business sales",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "industrial-sales",
+      "title": "Industrial sales",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "advertising-sales",
+      "title": "Advertising sales",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "b2c-sales",
+      "title": "B2C sales",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "retail-sales",
+      "title": "Retail sales",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "direct-sales",
+      "title": "Direct sales",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "inside-sales",
+      "title": "Inside sales",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "field-sales",
+      "title": "Field sales",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "sales-ops",
+      "title": "Sales operations",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "sales-enablement",
+      "title": "Sales enablement",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "sponsorship-sales",
+      "title": "Sponsorship sales",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "events",
+      "title": "Community events",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "visual-merch",
+      "title": "Visual merchandising",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "youtube",
+      "title": "YouTube",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "content-researcher",
+      "title": "Content research",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "scriptwriting",
+      "title": "Video scriptwriting",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "channel-strategy",
+      "title": "Channel strategy",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "youtube-producer",
+      "title": "YouTube production",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "newsletter",
+      "title": "Newsletters",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "ghostwriting",
+      "title": "Ghostwriting",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "ugc",
+      "title": "UGC creation",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "product-demo",
+      "title": "Product demos",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "brief-reading",
+      "title": "Reading a creative brief",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "streaming",
+      "title": "Livestream production",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "meme-making",
+      "title": "Meme making",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "storytelling",
+      "title": "Storytelling",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "illustration",
+      "title": "Illustration",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "comics",
+      "title": "Comics",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "product-design",
+      "title": "Product design",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "block-printing",
+      "title": "Block printing",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "narrative-design",
+      "title": "Narrative design",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "game-writing",
+      "title": "Game writing",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "game-ux",
+      "title": "Game UX",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "game-testing",
+      "title": "Game testing",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "game-producer",
+      "title": "Game production",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "localisation",
+      "title": "Game localisation",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "chess-tactics",
+      "title": "Chess tactics",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "chess-composition",
+      "title": "Chess composition",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "chess-commentary",
+      "title": "Chess commentary",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "cube-lookahead",
+      "title": "Cube lookahead",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "board-games",
+      "title": "Board games",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "cooperative-games",
+      "title": "Cooperative games",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "tabletop-rpg",
+      "title": "Tabletop roleplaying",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "esports",
+      "title": "Esports",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "speedrunning",
+      "title": "Speedrunning",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "puzzles",
+      "title": "Logic puzzles",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "carrom",
+      "title": "Carrom",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "sports-photo",
+      "title": "Sports photography",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "portrait-photo",
+      "title": "Portrait photography",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "street-photo",
+      "title": "Street photography",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "astro-photo",
+      "title": "Astrophotography",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "underwater-photo",
+      "title": "Underwater photography",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "forensic-photo",
+      "title": "Forensic photography",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "concert-photo",
+      "title": "Concert photography",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "production-design",
+      "title": "Production design",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "location",
+      "title": "Location scouting",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "props",
+      "title": "Props",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "costume",
+      "title": "Costume design",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "screenwriting",
+      "title": "Screenwriting",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "casting",
+      "title": "Casting",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "assistant-direction",
+      "title": "Assistant direction",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "mixing",
+      "title": "Mixing",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "mastering",
+      "title": "Mastering",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "field-recording",
+      "title": "Field recording",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "podcast-booker",
+      "title": "Podcast guest booking",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "arranging",
+      "title": "Music arranging",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "voice",
+      "title": "Voice performance",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "live-sound",
+      "title": "Live sound",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "animals",
+      "title": "Animals",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "bioacoustics",
+      "title": "Bioacoustics",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "birding",
+      "title": "Birdwatching",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "marine-science",
+      "title": "Marine science",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "urban-ecology",
+      "title": "Urban ecology",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "stargazing",
+      "title": "Stargazing",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "conservation-technology",
+      "title": "Conservation technology",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "data-storytelling",
+      "title": "Data storytelling",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "budgeting",
+      "title": "Budgeting",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "kabaddi",
+      "title": "Kabaddi",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "sports-commentary",
+      "title": "Sports commentary",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "sports-journalism",
+      "title": "Sports journalism",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "esports-production",
+      "title": "Esports production",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "ultimate",
+      "title": "Ultimate frisbee",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "data-visualisation",
+      "title": "Data visualisation",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "gis",
+      "title": "Digital mapping",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "learning-design",
+      "title": "Learning design",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    },
+    {
+      "id": "translation",
+      "title": "Translation",
+      "reason": "No saved, directly relevant practitioner relationship. Broader suggestions do not qualify."
+    }
+  ]
+}

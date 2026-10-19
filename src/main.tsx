@@ -3,3 +3,4 @@ import App from'./App';
 import '@xyflow/react/dist/style.css';
 import './style.css';
 createRoot(document.getElementById('root')!).render(<App/>);
+import './creative.css';
