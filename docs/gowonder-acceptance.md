@@ -20,3 +20,9 @@
 No production domain or GitHub Pages deployment has been verified. Administrator Pages and Namecheap DNS steps are in DEPLOYMENT.md. Login, cloud sync and psychological matching are deferred. Feedback stays local and makes no claim of being sent. Source cards remain for 50 practitioners without reusable portraits; no generated faces were added. A full live audit of every historical external link and complete video playback remains pending. Browser automation briefly stalled during one mobile click; a fresh state confirmed navigation had succeeded, and subsequent navigation checks passed.
 
 The complete data bundle remains about 1.68 MB of JavaScript before compression (319 KB gzip). Vite reports its chunk size warning and an ignored React Flow use-client directive; the build completes. Future loading optimisation should preserve the portable export and graph data.
+
+## GitHub verification
+
+Commit ff7057962fa61be8b06cb9de6785cf70a938f60e was saved to Aadishsoni7/OFFBEAT main. The first Publish GoWonder run passed dependency installation, content checks, storage migration checks and the production build on GitHub. It failed at actions/configure-pages@v5; deployment was skipped. Repository Pages configuration must be completed and the workflow rerun before claiming a live URL. Run: https://github.com/Aadishsoni7/OFFBEAT/actions/runs/39332323813
+
+The portable file was structurally exported and counted, but automated browser opening of file:// was blocked by the browser URL policy. No alternative browser surface was used to bypass that restriction. Browser acceptance above used the React development app on localhost. The user can open GoWonder.html directly using their normal local file viewer/browser.
