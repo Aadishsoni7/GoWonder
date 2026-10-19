@@ -5,3 +5,5 @@ html=html.replace(/<link rel="stylesheet" crossorigin href="([^"]+)">/,(_,url)=>
 let credits=fs.readFileSync('public/credits.html','utf8').replace(/src="\.\/portraits\/([^\"]+)"/g,(_,file)=>'src="'+image(file)+'"');fs.writeFileSync(path.join(output,'credits.html'),credits);fs.copyFileSync('README.md',path.join(output,'GoWonder-Readme.md'));fs.copyFileSync('docs/validation.json',path.join(output,'GoWonder-validation.json'));console.log(JSON.stringify({standalone:'GoWonder.html',embeddedPortraits:portraitUses,sizeMB:Math.round(Buffer.byteLength(html)/1048576*10)/10}));
 
 fs.copyFileSync('docs/DEPLOYMENT.md',path.join(output,'GoWonder-Deployment.md'));fs.copyFileSync('docs/editorial-report.md',path.join(output,'GoWonder-editorial-report.md'));
+
+if(fs.existsSync('docs/restoration-report.md'))fs.copyFileSync('docs/restoration-report.md',path.join(output,'GoWonder-restoration-report.md'));

@@ -19,11 +19,15 @@ pnpm build
 node scripts/export-standalone.mjs
 ```
 
+## Current restoration
+
+The visual reference is Offbeat commit c9cb8cdebd0eb7a12bf84d1d9f834fdf102e02c6. The original homepage, star wordmark, purple palette, animated background, graph, practitioner cards and Try it / People / A little deeper tabs are restored. GoWonder is the visible name. Both new entrances open the original graph. Subjects have five or six question branches, including six for Mathematics. See docs/restoration-report.md.
+
 ## What ships
 
-Two main entrances, 25 curated everyday questions, 150 published possibilities, 110 practitioners, 60 licensed portraits and three optional practice choices per published discovery. Netflix and Spotify reuse one Recommendation Systems node. Broader arts, games, nature, science, business and sports remain available through the map and search.
+Two main entrances, 38 curated everyday questions, 150 published possibilities, 110 practitioners, 60 licensed portraits and three optional practice choices per published discovery. Netflix and Spotify reuse one Recommendation Systems node. Broader arts, games, nature, science, business and sports remain available through the map and search.
 
-The content layers connect familiar starts, discoveries and deeper people/resources/activities. Numbered educational stages are not shown. Internal numeric activity keys remain compatible with earlier saved progress.
+The original map shows three exploration layers for familiar starts, possibilities and expanded people/resources/activities. Practice choices are optional and are not educational grades. Internal numeric activity keys remain compatible with earlier saved progress.
 
 Guest saving works in local browser storage and imports earlier Offbeat storage when available on the same origin. It includes questions, discoveries, people, routes and reflections. Notebook JSON can be downloaded. Cloud accounts and sync are not connected. Feedback is explicitly local and is included in the export.
 

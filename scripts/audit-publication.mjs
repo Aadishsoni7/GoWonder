@@ -7,10 +7,10 @@ function moduleUrl(file){file=path.resolve(file);if(cache.has(file))return cache
 const repo=await import(moduleUrl('src/data/repository.ts'));
 const {questions}=await import(moduleUrl('src/data/discovery.ts'));
 const fields=repo.allPossibilities.filter(n=>n.nodeType==='possibility');
-const {subjects,entryQuestions}=await import(moduleUrl('src/data/entrypoints.ts'));
+const {subjects,entryQuestions,questionsForSubject}=await import(moduleUrl('src/data/entrypoints.ts'));
 assert.equal(subjects.length,13,'Keep all familiar subject entrances');
 assert.equal(new Set(entryQuestions.map(q=>q.id)).size,entryQuestions.length,'Question IDs must be unique');
-for(const subject of subjects)assert(entryQuestions.some(q=>q.subjects.includes(subject.id)),subject.id+' needs an entry question');
+for(const subject of subjects){const qs=questionsForSubject(subject.id);assert(qs.length>=5&&qs.length<=6,subject.id+' needs five or six question branches');assert.equal(new Set(qs.map(q=>q.id)).size,qs.length,subject.id+' has duplicate branches');}
 for(const q of entryQuestions){assert(repo.byId[q.fieldId],q.id+' must open a published discovery');assert(q.explanation.length>25,q.id+' needs a useful explanation');}
 assert.equal(entryQuestions.find(q=>q.id==='netflix').fieldId,entryQuestions.find(q=>q.id==='spotify').fieldId,'Netflix and Spotify must reuse the same canonical discovery');
 
