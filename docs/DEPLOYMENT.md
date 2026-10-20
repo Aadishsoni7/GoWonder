@@ -1,5 +1,8 @@
 # Put GoWonder on gowonder.me
 
+**Current hosting choice: Vercel. See [VERCEL.md](VERCEL.md).** The GitHub Pages instructions below are a historical alternative. Do not copy their DNS IP addresses when connecting Vercel. The Pages workflow is now manual only.
+
+
 The build is static and uses hash routes. GitHub Pages can host this public repository without a hosting purchase. The custom domain is already owned by the user. Preparing files does not make the domain live.
 
 ## GitHub administrator steps
