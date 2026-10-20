@@ -36,7 +36,27 @@ Local browser saves belong to their origin. Export your notebook before switchin
 
 ## Status
 
-Source configuration prepared. Deployment URL, Vercel project identity and DNS records must be recorded after account access and verified deployment; none are invented here.
+Deployed and verified on 20 October 2026.
+
+- Public URL: https://gowonder.me
+- www: https://www.gowonder.me returns HTTP 308 to https://gowonder.me/
+- Fallback URL: https://gowonder.vercel.app
+- Project: https://vercel.com/aadishsoni2028-2859/gowonder
+- Production branch: main, connected to Aadishsoni7/OFFBEAT
+- Initial deployed source: 856972d73757477c97c6dafa29f698493a8f1353
+- Initial deployment: dpl_CuB7qJEqs1Fy1yasMGXpUUgueijz
+- Plan: Hobby
+
+Namecheap BasicDNS remains authoritative. Saved records verified after reload:
+
+| Type | Host | Value | TTL |
+| --- | --- | --- | --- |
+| A | @ | 216.198.79.1 | 30 minutes |
+| CNAME | www | fe39b74126f9b4ce.vercel-dns-017.com. | 30 minutes |
+
+The four former GitHub Pages A records were replaced. Email forwarding and the existing SPF TXT record were preserved. Previous website records are backed up locally in outputs/GoWonder-DNS-before-Vercel.txt.
+
+Vercel reports Valid Configuration for both custom domains. Unauthenticated HTTPS checks returned 200 for the apex and fallback domains, and 308 for www with the correct Location header. TLS validation was enabled. The restored app and Mathematics → Netflix → Recommendation Systems activity were tested on the production deployment. Some browser DNS caches may take longer to refresh after the switch.
 
 Official sources checked 20 October 2026:
 - https://vercel.com/docs/frameworks/frontend/vite
@@ -44,3 +64,4 @@ Official sources checked 20 October 2026:
 - https://vercel.com/docs/package-managers
 - https://vercel.com/docs/functions/runtimes/node-js/node-js-versions
 - https://vercel.com/docs/domains/working-with-domains/add-a-domain
+
