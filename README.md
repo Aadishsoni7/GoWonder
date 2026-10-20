@@ -33,9 +33,15 @@ Guest saving works in local browser storage and imports earlier Offbeat storage 
 
 Practitioner evidence, licensing and limits are recorded in docs/editorial-report.md and docs/recommendation-evidence.md. 83 candidate fields remain unpublished until a directly relevant practitioner relationship is evidenced. Portraits are never generated substitutes. People without reusable portraits have honest source cards; Justin Basilico has an official conference video preview.
 
+## Personal discovery preview
+
+A new optional homepage entrance offers 24 choices and a continuous 10 minute session. Results connect six existing questions to the original map, with an unexpected direction. Answers stay in memory for this visit only. No login, cloud assessment history or minor profiling service is enabled. Refresh clears the preview. Explicitly saved questions still use the existing device notebook.
+
+See [scoring and content review](docs/discovery-scoring-review.md), [account stage and privacy requirements](docs/discovery-accounts-stage.md), and [release checks](docs/discovery-release.md). This original questionnaire has not been scientifically validated.
+
 ## Deployment
 
-See [the complete GitHub Pages and Namecheap guide](docs/DEPLOYMENT.md). Canonical URL: https://gowonder.me. Domain setup and successful deployment must still be verified; the canonical tag is not proof of a live website. No paid backend, analytics, login or automatic data collection is added.
+Live at https://gowonder.me. Source: https://github.com/Aadishsoni7/GoWonder. Vercel deploys main automatically. See [Vercel configuration](docs/VERCEL.md). No paid backend, analytics or new personal data collection is added by the assessment preview.
 
 ## Source and portable files
 

@@ -1,6 +1,6 @@
 # GoWonder on Vercel
 
-Requested domain: gowonder.me. Repository: https://github.com/Aadishsoni7/OFFBEAT. Deploy the restored map, not a new template. Domain registration stays with Namecheap; it does not need to be transferred or purchased again.
+Requested domain: gowonder.me. Repository: https://github.com/Aadishsoni7/GoWonder. Deploy the restored map, not a new template. Domain registration stays with Namecheap; it does not need to be transferred or purchased again.
 
 ## Prepared source
 
@@ -9,7 +9,7 @@ vercel.json selects Vite, builds the dist directory and runs the content/storage
 ## Connect the account and deploy
 
 1. Install/connect the Vercel integration in this chat, or sign into your Vercel account and open Add New → Project.
-2. Import Aadishsoni7/OFFBEAT. If GitHub authorization is requested, restrict repository access to OFFBEAT where available. Approve that account permission yourself.
+2. Import Aadishsoni7/GoWonder. If GitHub authorization is requested, restrict repository access to GoWonder where available. Approve that account permission yourself.
 3. Project name: gowonder, if available. Root directory: repository root (not work/offbeat; the GitHub repository already contains package.json at its root). Framework: Vite. Output: dist. The checked-in vercel.json supplies the install and build commands.
 4. Use an existing eligible plan. Do not accept a paid upgrade or purchase as part of these steps without a separate decision.
 5. Deploy and inspect the actual build result. Open the resulting vercel.app URL while signed out and confirm public access, the restored map, Mathematics branches, Foley, a portrait and the activity.
@@ -42,7 +42,7 @@ Deployed and verified on 20 October 2026.
 - www: https://www.gowonder.me returns HTTP 308 to https://gowonder.me/
 - Fallback URL: https://gowonder.vercel.app
 - Project: https://vercel.com/aadishsoni2028-2859/gowonder
-- Production branch: main, connected to Aadishsoni7/OFFBEAT
+- Production branch: main, connected to Aadishsoni7/GoWonder
 - Initial deployed source: 856972d73757477c97c6dafa29f698493a8f1353
 - Initial deployment: dpl_CuB7qJEqs1Fy1yasMGXpUUgueijz
 - Plan: Hobby
