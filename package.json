@@ -7,8 +7,9 @@
   "scripts": {
     "dev": "vite --host 127.0.0.1",
     "build": "node scripts/audit-publication.mjs && tsc --noEmit && vite build",
-    "check:data": "node scripts/validate-data.mjs && node scripts/audit-publication.mjs && node scripts/check-storage.mjs && pnpm run check:discovery",
-    "check:discovery": "node scripts/check-assessment.mjs"
+    "check:data": "node scripts/validate-data.mjs && node scripts/audit-publication.mjs && node scripts/check-storage.mjs && pnpm run check:discovery && pnpm run check:guided",
+    "check:discovery": "node scripts/check-assessment.mjs",
+    "check:guided": "node scripts/check-guided.mjs"
   },
   "dependencies": {
     "react": "^19.1.1",

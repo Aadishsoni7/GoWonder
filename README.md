@@ -1,6 +1,10 @@
 # GoWonder
 
-A discovery app for young people in India. Begin with one of 13 familiar subjects or browse everyday questions. Follow a question into a connected map, meet real practitioners and try a small activity.
+GoWonder helps young people in India find interesting things to learn, make and do. Start with a subject or a question, read a guided discovery, meet real people and try something small if you want to. The original interactive map is available for the same selected content.
+
+Live: https://gowonder.me · Source: https://github.com/Aadishsoni7/GoWonder
+
+See [guided UX release and rollback](docs/guided-release.md) for retained features and validation. Shared question/field links open guided reading; #map/question/netflix opens the optional connected map. Existing notebook storage and the optional interest-check preview remain.
 
 ## Run locally
 
@@ -21,7 +25,7 @@ node scripts/export-standalone.mjs
 
 ## Current restoration
 
-The visual reference is Offbeat commit c9cb8cdebd0eb7a12bf84d1d9f834fdf102e02c6. The original homepage, star wordmark, purple palette, animated background, graph, practitioner cards and Try it / People / A little deeper tabs are restored. GoWonder is the visible name. Both new entrances open the original graph. Subjects have five or six question branches, including six for Mathematics. See docs/restoration-report.md.
+The visual reference is Offbeat commit c9cb8cdebd0eb7a12bf84d1d9f834fdf102e02c6. The original homepage, star wordmark, purple palette, animated background, graph, practitioner cards and Try it / People / A little deeper tabs are restored. GoWonder is the visible name. Both entrances now open guided reading, with an optional switch to the original graph. Subjects have five or six question branches, including six for Mathematics. See docs/restoration-report.md.
 
 ## What ships
 
